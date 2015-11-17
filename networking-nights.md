@@ -1,5 +1,7 @@
 ##2016 Networking Nights:
 
+May 9 - **New Relic**
+
 April 12 - **Simple**
 
 March 8 - **Intel** Open Source
@@ -10,7 +12,9 @@ Jan. - **Airbnb**
 
 ##2015 Networking Nights:
 
-Dec. 10 - **Puppet Labs** (HOLIDAY PARTY): http://www.meetup.com/Women-Who-Code-Portland/events/226200377/
+Dec. 10 - **Puppet Labs** (Women + Tech Holiday Party): http://www.meetup.com/Women-Who-Code-Portland/events/226200377/
+* A collaboaration between WWCode, PDX Women in Tech, ChickTech, Girls Inc., Lesbians Who Tech, and PyLadies 
+* Eventbrite: http://www.eventbrite.com/e/the-women-tech-holiday-party-hosted-by-puppet-labs-tickets-19054246765?aff=erelexpcat
 
 Nov. 3 - **Nike**: http://www.meetup.com/Women-Who-Code-Portland/events/226195388/
 
@@ -31,4 +35,4 @@ May 14 - **CrowdCompass**: http://www.meetup.com/Women-Who-Code-Portland/events/
 
 April 30 - **Elemental Technologies**: http://www.meetup.com/Women-Who-Code-Portland/events/221404142/
 
-#1 - March 5 - **Jaguar Land Rover** Open Software Technology Center: http://www.meetup.com/Women-Who-Code-Portland/events/220626662/
+March 5 - **Jaguar Land Rover** Open Software Technology Center: http://www.meetup.com/Women-Who-Code-Portland/events/220626662/
