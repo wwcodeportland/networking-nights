@@ -1,3 +1,13 @@
+##2016 Networking Nights:
+
+April 12 - Simple
+
+March 8 - Intel Open Source
+
+Feb. 18 - Metal Toad
+
+Jan. - TBD
+
 ##2015 Networking Nights:
 
 Dec. 10 - Puppet Labs (HOLIDAY PARTY) - http://www.meetup.com/Women-Who-Code-Portland/events/226200377/
