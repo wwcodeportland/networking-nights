@@ -16,7 +16,7 @@ Jan. 14 - **Airbnb**
 
 Dec. 10 - **Puppet Labs** (Women + Tech Holiday Party): http://www.meetup.com/Women-Who-Code-Portland/events/226200377/
 * A collaboaration between WWCode, PDX Women in Tech, ChickTech, Girls Inc., Lesbians Who Tech, and PyLadies 
-* Eventbrite: http://www.eventbrite.com/e/the-women-tech-holiday-party-hosted-by-puppet-labs-tickets-19054246765?aff=erelexpcat
+* Eventbrite: http://www.eventbrite.com/e/the-women-tech-holiday-party-hosted-by-puppet-labs-tickets-19054246765
 
 Nov. 3 - **Nike**: http://www.meetup.com/Women-Who-Code-Portland/events/226195388/
 
