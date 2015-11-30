@@ -1,5 +1,7 @@
 ##2016 Networking Nights:
 
+June - **Catalyst Dev Works**
+
 May 9 - **New Relic**
 
 April 12 - **Simple**
@@ -8,7 +10,7 @@ March 8 - **Intel** Open Source
 
 Feb. 18 - **Metal Toad**
 
-Jan. - **Airbnb**
+Jan. 14 - **Airbnb**
 
 ##2015 Networking Nights:
 
