@@ -8,20 +8,19 @@ Info about our monthly Networking Nights, a womens' speaking series at a differe
 - make new connections
 - create a community of women who code, women who used to code, and women learning to code in Portland
 
-##Format
-
-- Lightning Talks 
-- Panel 
-- Workshop
-
-##Events
+##Our Events
 
 - [Past and Future Events](https://github.com/wwcodeportland/networking-nights/blob/master/networking-nights.md)
 
 - [2015 Networking Night Schedule](https://github.com/wwcodeportland/networking-nights/blob/master/networking-nights-2015-schedule.pdf)
 
-- [2016 Netowrking Night Schedule] (https://github.com/wwcodeportland/networking-nights/blob/master/networking-nights-2016-schedule.pdf)
+- [2016 Networking Night Schedule] (https://github.com/wwcodeportland/networking-nights/blob/master/networking-nights-2016-schedule.pdf)
 
+##Format
+
+- Lightning Talks 
+- Panel 
+- Workshop
 
 ##Panel
 
