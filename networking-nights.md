@@ -10,7 +10,7 @@ March 8 - **Intel** Open Source
 
 Feb. 18 - **Metal Toad**
 
-Jan. 14 - **Airbnb**
+Jan. 14 - **Airbnb**: http://www.meetup.com/Women-Who-Code-Portland/events/227343182/
 
 ##2015 Networking Nights:
 
