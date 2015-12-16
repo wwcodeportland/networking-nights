@@ -37,4 +37,4 @@ May 14 - **CrowdCompass**: http://www.meetup.com/Women-Who-Code-Portland/events/
 
 April 30 - **Elemental Technologies**: http://www.meetup.com/Women-Who-Code-Portland/events/221404142/
 
-March 5 - **[Jaguar Land Rover]** Open Software Technology Center: (http://www.meetup.com/Women-Who-Code-Portland/events/220626662/)
+March 5 - [Jaguar Land Rover Open Software Technology Center] (http://www.meetup.com/Women-Who-Code-Portland/events/220626662/)
