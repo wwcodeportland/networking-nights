@@ -6,17 +6,17 @@ May 9 - **New Relic**
 
 April 12 - **Simple**
 
-March 8 - **Intel** Open Source
+March 8 - **Intel Open Source**
 
 Feb. 18 - **Metal Toad**
 
-Jan. 14 - **Airbnb**: http://www.meetup.com/Women-Who-Code-Portland/events/227343182/
+Jan. 14 - [Airbnb] (http://www.meetup.com/Women-Who-Code-Portland/events/227343182/)
 
 ##2015 Networking Nights:
 
-Dec. 10 - [Puppet Labs (Women + Tech Holiday Party)] http://www.meetup.com/Women-Who-Code-Portland/events/226200377/
+Dec. 10 - [Puppet Labs] (http://www.meetup.com/Women-Who-Code-Portland/events/226200377/)
 * A collaboaration between WWCode, PDX Women in Tech, ChickTech, Girls Inc., Lesbians Who Tech, and PyLadies 
-* Eventbrite: http://www.eventbrite.com/e/the-women-tech-holiday-party-hosted-by-puppet-labs-tickets-19054246765
+* [Eventbrite link] (http://www.eventbrite.com/e/the-women-tech-holiday-party-hosted-by-puppet-labs-tickets-19054246765)
 
 Nov. 3 - [Nike] (http://www.meetup.com/Women-Who-Code-Portland/events/226195388/)
 
@@ -30,11 +30,11 @@ Aug. 4 - [Jama Software] (http://www.meetup.com/Women-Who-Code-Portland/events/2
 
 June 28 - [AppNexus] (http://www.meetup.com/Women-Who-Code-Portland/events/223973917/)
 
-June 8 - [New Relic] (www.meetup.com/Women-Who-Code-Portland/events/222804928/)
-* blog post + video: http://blog.newrelic.com/2015/06/16/futuretalk-women-who-code/
+June 8 - [New Relic] (http://www.meetup.com/Women-Who-Code-Portland/events/222804928/)
+* [blog post + video] (http://blog.newrelic.com/2015/06/16/futuretalk-women-who-code/)
 
-May 14 - [CrowdCompass] (www.meetup.com/Women-Who-Code-Portland/events/222216437/)
+May 14 - [CrowdCompass] (http://www.meetup.com/Women-Who-Code-Portland/events/222216437/)
 
-April 30 - [Elemental Technologies] (www.meetup.com/Women-Who-Code-Portland/events/221404142/)
+April 30 - [Elemental Technologies] (http://www.meetup.com/Women-Who-Code-Portland/events/221404142/)
 
-March 5 - [Jaguar Land Rover Open Software Technology Center] (www.meetup.com/Women-Who-Code-Portland/events/220626662/)
+March 5 - [Jaguar Land Rover Open Software Technology Center] (http://www.meetup.com/Women-Who-Code-Portland/events/220626662/)
