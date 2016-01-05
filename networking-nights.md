@@ -6,9 +6,9 @@ May 9 - **New Relic**
 
 April 12 - **Simple**
 
-March 8 - **Intel Open Source**
+March 8 - [Intel OpenSource] (http://www.meetup.com/Women-Who-Code-Portland/events/227870415/)
 
-Feb. 18 - **Metal Toad**
+Feb. 18 - [Metal Toad] (http://www.meetup.com/Women-Who-Code-Portland/events/227725819/)
 
 Jan. 14 - [Airbnb] (http://www.meetup.com/Women-Who-Code-Portland/events/227343182/)
 
