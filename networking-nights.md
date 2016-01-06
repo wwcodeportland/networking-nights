@@ -1,10 +1,10 @@
 ##2016 Networking Nights:
 
-June - **Catalyst Dev Works**
+June - Catalyst Dev Works
 
-May 9 - **New Relic**
+May 9 - New Relic
 
-April 12 - **Simple**
+April 12 - Simple
 
 March 8 - [Intel OpenSource] (http://www.meetup.com/Women-Who-Code-Portland/events/227870415/)
 
@@ -27,11 +27,12 @@ Oct. 6 - [Quick Left] (http://www.meetup.com/Women-Who-Code-Portland/events/2256
 Sept. 8 - [Urban Airship] (http://www.meetup.com/Women-Who-Code-Portland/events/224842443/)
 
 Aug. 4 - [Jama Software] (http://www.meetup.com/Women-Who-Code-Portland/events/224075227/)
+* Jama wrote an article about the event
 
 June 28 - [AppNexus] (http://www.meetup.com/Women-Who-Code-Portland/events/223973917/)
 
 June 8 - [New Relic] (http://www.meetup.com/Women-Who-Code-Portland/events/222804928/)
-* [blog post + video] (http://blog.newrelic.com/2015/06/16/futuretalk-women-who-code/)
+* Blog post with video of the talks [here] (http://blog.newrelic.com/2015/06/16/futuretalk-women-who-code/)
 
 May 14 - [CrowdCompass] (http://www.meetup.com/Women-Who-Code-Portland/events/222216437/)
 
