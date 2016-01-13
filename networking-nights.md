@@ -16,9 +16,8 @@ Jan. 14 - [Airbnb] (http://www.meetup.com/Women-Who-Code-Portland/events/2273431
 
 ##2015 Networking Nights:
 
-Dec. 10 - [Puppet Labs] (http://www.meetup.com/Women-Who-Code-Portland/events/226200377/)
-* A collaboaration between WWCode, PDX Women in Tech, ChickTech, Girls Inc., Lesbians Who Tech, and PyLadies 
-* [Eventbrite link] (http://www.eventbrite.com/e/the-women-tech-holiday-party-hosted-by-puppet-labs-tickets-19054246765)
+Dec. 10 - [Puppet Labs] (http://www.meetup.com/Women-Who-Code-Portland/events/226200377/) (Portland Business Journal article [here] (http://www.bizjournals.com/portland/blog/techflash/2015/12/4-women-of-puppet-labs-share-tips-on-navigating.html))
+* As part of the [Women + Tech Holiday Party] (http://www.eventbrite.com/e/the-women-tech-holiday-party-hosted-by-puppet-labs-tickets-19054246765), a collaboaration between WWCode PDX, PDX Women in Tech, ChickTech, Girls Inc., Lesbians Who Tech PDX, and PyLadies PDX
 
 Nov. 3 - [Nike] (http://www.meetup.com/Women-Who-Code-Portland/events/226195388/)
 
@@ -28,13 +27,11 @@ Oct. 6 - [Quick Left] (http://www.meetup.com/Women-Who-Code-Portland/events/2256
 
 Sept. 8 - [Urban Airship] (http://www.meetup.com/Women-Who-Code-Portland/events/224842443/)
 
-Aug. 4 - [Jama Software] (http://www.meetup.com/Women-Who-Code-Portland/events/224075227/)
-* Jama wrote an article about the event
+Aug. 4 - [Jama Software] (http://www.meetup.com/Women-Who-Code-Portland/events/224075227/) (read a recap blog post [here] (http://www.jamasoftware.com/blog/leading-for-a-diverse-workplace/))
 
 June 28 - [AppNexus] (http://www.meetup.com/Women-Who-Code-Portland/events/223973917/)
 
-June 8 - [New Relic] (http://www.meetup.com/Women-Who-Code-Portland/events/222804928/)
-* Blog post with video of the talks [here] (http://blog.newrelic.com/2015/06/16/futuretalk-women-who-code/)
+June 8 - [New Relic] (http://www.meetup.com/Women-Who-Code-Portland/events/222804928/) (read a recap blog post [here] (http://blog.newrelic.com/2015/06/16/futuretalk-women-who-code/))
 
 May 14 - [CrowdCompass] (http://www.meetup.com/Women-Who-Code-Portland/events/222216437/)
 
