@@ -1,5 +1,7 @@
 ##2016 Networking Nights:
 
+July - Treehouse
+
 June - Catalyst Dev Works
 
 May 9 - New Relic
