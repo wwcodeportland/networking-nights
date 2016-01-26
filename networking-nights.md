@@ -1,5 +1,9 @@
 ##2016 Networking Nights:
 
+#####May 9 - New Relic - more info tba
+
+#####April 12 - Simple - more info tba
+
 #####March 8 - [Intel -] (http://www.meetup.com/Women-Who-Code-Portland/events/227870415/) "Open Source"
 
 #####Feb. 18 - [Metal Toad -] (http://www.meetup.com/Women-Who-Code-Portland/events/227725819/) "Building the Future of Women in Tech"
