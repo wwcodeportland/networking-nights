@@ -25,12 +25,12 @@
 #####Sept. 8 - [Urban Airship -] (http://www.meetup.com/Women-Who-Code-Portland/events/224842443/) "Never Stop Learning"
 
 #####Aug. 4 - [Jama Software] (http://www.meetup.com/Women-Who-Code-Portland/events/224075227/) "Lessons Learned in the Tech Industry" 
-* Read a recap [blog post] (http://www.jamasoftware.com/blog/leading-for-a-diverse-workplace/)
+* Read a recap blog post [here] (http://www.jamasoftware.com/blog/leading-for-a-diverse-workplace/)
 
 #####June 28 - [AppNexus -] (http://www.meetup.com/Women-Who-Code-Portland/events/223973917/) "Around the Stack"
 
 #####June 8 - [New Relic -] (http://www.meetup.com/Women-Who-Code-Portland/events/222804928/) "Future Talks"
-* Read a recap [blog post] (http://blog.newrelic.com/2015/06/16/futuretalk-women-who-code/)
+* Read a recap blog post [here] (http://blog.newrelic.com/2015/06/16/futuretalk-women-who-code/)
 
 #####May 14 - [CrowdCompass -] (http://www.meetup.com/Women-Who-Code-Portland/events/222216437/) "Building Products"
 
