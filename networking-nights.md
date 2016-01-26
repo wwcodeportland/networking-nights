@@ -12,7 +12,7 @@ March 8 - [Intel OpenSource] (http://www.meetup.com/Women-Who-Code-Portland/even
 
 Feb. 18 - [Metal Toad] (http://www.meetup.com/Women-Who-Code-Portland/events/227725819/)
 
-Jan. 14 - [Airbnb] (http://www.meetup.com/Women-Who-Code-Portland/events/227343182/)
+Jan. 14 - [Airbnb] (http://www.meetup.com/Women-Who-Code-Portland/events/227343182/): Airbnb Engineering Comes to Portland
 
 ##2015 Networking Nights:
 
@@ -33,8 +33,8 @@ June 28 - [AppNexus] (http://www.meetup.com/Women-Who-Code-Portland/events/22397
 
 June 8 - [New Relic] (http://www.meetup.com/Women-Who-Code-Portland/events/222804928/) (read a recap [blog post] (http://blog.newrelic.com/2015/06/16/futuretalk-women-who-code/))
 
-May 14 - [CrowdCompass] (http://www.meetup.com/Women-Who-Code-Portland/events/222216437/)
+May 14 - [CrowdCompass] (http://www.meetup.com/Women-Who-Code-Portland/events/222216437/): Building Products
 
-April 30 - [Elemental Technologies] (http://www.meetup.com/Women-Who-Code-Portland/events/221404142/)
+April 30 - [Elemental Technologies] (http://www.meetup.com/Women-Who-Code-Portland/events/221404142/): A Discussion on Tech Careers
 
-March 5 - [Jaguar Land Rover Open Software Technology Center] (http://www.meetup.com/Women-Who-Code-Portland/events/220626662/)
+March 5 - [Jaguar Land Rover Open Software Technology Center] (http://www.meetup.com/Women-Who-Code-Portland/events/220626662/): Tech Talks
