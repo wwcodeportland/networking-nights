@@ -33,11 +33,11 @@ Aug. 4 - [Jama Software] (http://www.meetup.com/Women-Who-Code-Portland/events/2
 
 June 28 - [AppNexus -] (http://www.meetup.com/Women-Who-Code-Portland/events/223973917/) Around the Stack
 
-June 8 - [New Relic -] (http://www.meetup.com/Women-Who-Code-Portland/events/222804928/) Future Talks 
+#####June 8 - [New Relic -] (http://www.meetup.com/Women-Who-Code-Portland/events/222804928/) Future Talks 
 * Read a recap [blog post] (http://blog.newrelic.com/2015/06/16/futuretalk-women-who-code/)
 
-May 14 - [CrowdCompass -] (http://www.meetup.com/Women-Who-Code-Portland/events/222216437/) Building Products
+#####May 14 - [CrowdCompass -] (http://www.meetup.com/Women-Who-Code-Portland/events/222216437/) Building Products
 
-April 30 - [Elemental Technologies -] (http://www.meetup.com/Women-Who-Code-Portland/events/221404142/) A Discussion on Tech Careers
+#####April 30 - [Elemental Technologies -] (http://www.meetup.com/Women-Who-Code-Portland/events/221404142/) A Discussion on Tech Careers
 
-March 5 - [Jaguar Land Rover -] (http://www.meetup.com/Women-Who-Code-Portland/events/220626662/) Open Software Technology Center Tech Talks
+#####March 5 - [Jaguar Land Rover -] (http://www.meetup.com/Women-Who-Code-Portland/events/220626662/) Open Software Technology Center Tech Talks
