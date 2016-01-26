@@ -1,8 +1,8 @@
 ##2016 Networking Nights:
 
-#####May 9 - New Relic - more info tba
+#####May 9 - New Relic
 
-#####April 12 - Simple - more info tba
+#####April 12 - Simple
 
 #####March 8 - [Intel -] (http://www.meetup.com/Women-Who-Code-Portland/events/227870415/) "Open Source"
 
