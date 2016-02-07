@@ -2,7 +2,7 @@
 
 #####May 9 - New Relic
 
-#####April 12 - Simple
+#####April 12
 
 #####March 8 - [Intel -] (http://www.meetup.com/Women-Who-Code-Portland/events/227870415/) "Open Source"
 
