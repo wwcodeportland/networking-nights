@@ -1,12 +1,12 @@
 # Networking Nights
-Info about our monthly Networking Nights, a womens' speaking series at a different tech company each month
+A monthly meetup to hear women speak about technology, make new connections, and help build a community of technical women in Portland.
 
 ##Goals
 
-- provide an opportunity for technical women to speak about technology
+- provide an opportunity for female engineers and technical women to speak about technology
 - learn about new technologies
 - make new connections
-- create a community of women who code, women who used to code, and women learning to code in Portland
+- create a community of women who code, women who once coded, and women learning to code in Portland
 
 ##Our Events
 
@@ -21,6 +21,10 @@ Info about our monthly Networking Nights, a womens' speaking series at a differe
 - Lightning Talks 
 - Panel 
 - Workshop
+
+##Companies Who Have Hosted Us
+
+##Lightning Talks
 
 ##Panel
 
