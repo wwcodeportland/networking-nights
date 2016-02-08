@@ -2,11 +2,14 @@
 
 ###2-3 Months Before Event
 - Finalize date and venue
+- Check out venue
 - Get at least two people from the hosting company to confirm date/involvement
 - Schedule call with hosting company to answer any of their questions about the event
 - Post "Save the Date" to Meetup page
 
 ##1 Month Before Event
+- Check in with organizers. 
+- Offer help/advise to speakers. If moderator of panel, schedule a lunch with all panelists.
 
 ##2 Weeks Before Event
 - Speakers finalized and announced on meetup page
