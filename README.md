@@ -24,19 +24,19 @@ A monthly meetup to hear women speak about technology, make new connections, and
 
 ##Companies Who Have Hosted Us
 
-<img height=100 src="logos/jlr.jpg">
-<img height=100 src="logos/elemental.png">
-<img height=100 src="logos/crowdcompass.png">
-<img height=100 src="logos/new-relic.png">
-<img height=100 src="logos/appnexus.jpeg">
-<img height=100 src="logos/jama.png">
-<img height=100 src="logos/urbanairship.png">
-<img height=100 src="logos/quickleft.jpg">
-<img height=100 src="logos/ebay.png">
-<img height=100 src="logos/puppetlabs.png">
-<img height=100 src="logos/airbnb.png">
-<img height=100 src="logos/metal-toad.png">
-<img height=100 src="logos/intel.png">
+<img height=100 src="logos/logo-jlr.png">
+<img height=100 src="logos/logo-elemental.png">
+<img height=100 src="logos/logo-crowdcompass.png">
+<img height=100 src="logos/logo-newrelic.png">
+<img height=100 src="logos/logo-appnexus.png">
+<img height=100 src="logos/logo-jama.png">
+<img height=100 src="logos/logo-urbanairship.png">
+<img height=100 src="logos/logo-quickleft.png">
+<img height=100 src="logos/logo-ebay.png">
+<img height=100 src="logos/logo-puppetlabs.png">
+<img height=100 src="logos/logo-airbnb.png">
+<img height=100 src="logos/logo-metaltoad.png">
+<img height=100 src="logos/logo-intel.png">
 
 ##Lightning Talks
 
