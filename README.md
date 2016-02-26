@@ -24,6 +24,12 @@ A monthly meetup to hear women speak about technology, make new connections, and
 
 ##Companies Who Have Hosted Us
 
+<img height=100 src="logos/jlr.jpg">
+<img height=100 src="logos/elemental.png">
+<img height=100 src="logos/crowdcompass.png">
+<img height=100 src="logos/new-relic.png">
+<img height=100 src="logos/appnexus.jpeg">
+
 ##Lightning Talks
 
 ##Panel
