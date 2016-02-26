@@ -24,7 +24,7 @@ A monthly meetup to hear women speak about technology, make new connections, and
 
 ##Companies Who Have Hosted Us
 
-<img height=100 src="logos/logo-jlr.png">
+<img height=100 src="logos/logo-jlr.png" title="Jaguar Land Rover">
 <img height=100 src="logos/logo-elemental.png">
 <img height=100 src="logos/logo-crowdcompass.png">
 <img height=100 src="logos/logo-newrelic.png">
