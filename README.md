@@ -58,7 +58,7 @@ A monthly meetup to hear women speak about technology, make new connections, and
 
 - Jan. 14 - [Airbnb -] (http://www.meetup.com/Women-Who-Code-Portland/events/227343182/) "Airbnb Engineering Comes to Portland"
 - Feb. 18 - [Metal Toad -] (http://www.meetup.com/Women-Who-Code-Portland/events/227725819/) "Building the Future of Women in Tech"
-- March 8 - [Intel -] (http://www.meetup.com/Women-Who-Code-Portland/events/227870415/) "Open Source"
+- March 8 - [Intel -] (http://www.meetup.com/Women-Who-Code-Portland/events/227870415/) "How Women Power Intel Open Source"
 - April 18 - New Tech PDX
 - May - TBA
 - June 10 - Instrument + 2nd Anniversary Party
