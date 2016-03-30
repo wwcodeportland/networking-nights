@@ -1,8 +1,7 @@
 ##2016 Networking Nights:
 
-#####May 9 - New Relic
 
-#####April 12 - tba
+#####April 12 - New Tech PDX
 
 #####March 8 - [Intel -] (http://www.meetup.com/Women-Who-Code-Portland/events/227870415/) "Open Source"
 
