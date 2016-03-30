@@ -3,25 +3,16 @@ A monthly meetup to hear women speak about technology, make new connections, and
 
 ##Goals
 
-- provide an opportunity for female engineers and technical women to speak about technology
+- provide an opportunity for engineers and technical women to speak about technology
 - learn about new technologies
 - make new connections
-- create a community of women who code, women who once coded, and women learning to code in Portland
+- create a community of women who code and women learning to code in Portland
 
 ##Our Events
 
 - [Past and Future Events](https://github.com/wwcodeportland/networking-nights/blob/master/networking-nights.md)
-
 - [2015 Networking Night Schedule](https://github.com/wwcodeportland/networking-nights/blob/master/networking-nights-2015-schedule.pdf)
-
 - [2016 Networking Night Schedule] (https://github.com/wwcodeportland/networking-nights/blob/master/networking-nights-2016-schedule.pdf)
-
-
-##Format
-
-- Lightning Talks 
-- Panel 
-- Workshop
 
 ##Companies Who Have Hosted Us
 
@@ -40,7 +31,16 @@ A monthly meetup to hear women speak about technology, make new connections, and
 <img height=100 src="logos/logo-metaltoad.png" title="Metal Toad">
 <img height=100 src="logos/logo-intel.png" title="Intel">
 
-##Lightning Talks
+##Format
+
+- Lightning Talks (shorter tech talks, 5-10 minutes each)
+- Panel
+- Workshop 
+- Around the World (split attendees in three to four different rooms for presentations)
+
+##FAQs
+
+Link to page with FAQs - Coming soon...
 
 ##Panel
 
