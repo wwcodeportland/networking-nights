@@ -16,6 +16,10 @@ A monthly meetup to hear women speak about technology, make new connections, and
 
 - [2016 Networking Night Schedule] (https://github.com/wwcodeportland/networking-nights/blob/master/networking-nights-2016-schedule.pdf)
 
+<img height=400 src="networking-nights-2015-schedule.pdf" title="2015 Schedule">
+<img height=400 src="networking-nights-2016-schedule.pdf" title="2016 Schedule">
+
+
 ##Format
 
 - Lightning Talks 
