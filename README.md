@@ -57,7 +57,7 @@ A monthly meetup to hear women speak about technology, make new connections, and
 - Oct. 6 - [Quick Left -] (http://www.meetup.com/Women-Who-Code-Portland/events/225695607/) "Women and Negotiation: Professional Happiness, One Conversation at a Time" 
 - Oct. 22 - [eBay -] (http://www.meetup.com/Women-Who-Code-Portland/events/225978076/) "Testing Your Metal in the Portland Tech Scene"
 - Nov. 3 - [Nike -] (http://www.meetup.com/Women-Who-Code-Portland/events/226195388/) "Creative Thinking in a Technical World"
-- Dec. 10 - [Puppet Labs -] (http://www.meetup.com/Women-Who-Code-Portland/events/226200377/) "Raise Your Voice" 
+- Dec. 10 - [Puppet Labs / Women + Tech Holiday Party -] (http://www.meetup.com/Women-Who-Code-Portland/events/226200377/) "Raise Your Voice" 
 
 2016
 
@@ -66,7 +66,7 @@ A monthly meetup to hear women speak about technology, make new connections, and
 - March 8 - [Intel -] (http://www.meetup.com/Women-Who-Code-Portland/events/227870415/) "How Women Power Intel Open Source"
 - April 18 - New Tech PDX
 - June 10 - Instrument + 2nd Anniversary Party
-- Aug. 8 - New Relic
+- Aug. 8 - WeWork / Women + Tech Summer Soiree
 - Aug. 16 - R/West
 - Sept. - Treehouse
 
