@@ -28,8 +28,13 @@ A monthly meetup to hear women speak about technology, make new connections, and
 <img height=100 src="logos/logo-nike.png" title="Nike">
 <img height=100 src="logos/logo-puppetlabs.png" title="Puppet Labs">
 <img height=100 src="logos/logo-airbnb.png" title="Airbnb">
-<img height=100 src="logos/logo-metaltoad.png" title="Metal Toad">
+<img height=100 src="logos/logo-metal-toad.png" title="Metal Toad">
 <img height=100 src="logos/logo-intel.png" title="Intel">
+<img height=100 src="logos/logo-newtechpdx.png" title="New Tech PDX">
+<img height=100 src="logos/logo-instrument.png" title="Instrument">
+<img height=100 src="logos/logo-wework.png" title="WeWork">
+<img height=100 src="logos/logo-rwest.png" title="R/West">
+<img height=100 src="logos/logo-treehouse.png" title="Treehouse">
 
 ##Format
 
@@ -60,7 +65,6 @@ A monthly meetup to hear women speak about technology, make new connections, and
 - Feb. 18 - [Metal Toad -] (http://www.meetup.com/Women-Who-Code-Portland/events/227725819/) "Building the Future of Women in Tech"
 - March 8 - [Intel -] (http://www.meetup.com/Women-Who-Code-Portland/events/227870415/) "How Women Power Intel Open Source"
 - April 18 - New Tech PDX
-- May - TBA
 - June 10 - Instrument + 2nd Anniversary Party
 - Aug. 8 - New Relic
 - Aug. 16 - R/West
