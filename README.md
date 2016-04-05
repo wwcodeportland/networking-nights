@@ -1,6 +1,13 @@
 # Networking Nights
 A monthly meetup to hear women speak about technology, make new connections, and help build a community of technical women in Portland.
 
+##Goals
+
+- provide an opportunity for engineers and technical women to speak about technology
+- learn about new technologies
+- make new connections
+- create a community of women who code and women learning to code in Portland
+
 ##Companies Who Have Hosted Us
 
 <img height=100 src="logos/logo-jlr.png" title="Jaguar Land Rover">
@@ -23,18 +30,6 @@ A monthly meetup to hear women speak about technology, make new connections, and
 <img height=100 src="logos/logo-rwest.png" title="R/West">
 <img height=100 src="logos/logo-treehouse.png" title="Treehouse">
 
-##Goals
-
-- provide an opportunity for engineers and technical women to speak about technology
-- learn about new technologies
-- make new connections
-- create a community of women who code and women learning to code in Portland
-
-##Our Events
-
-- [2015 Networking Night Schedule](https://github.com/wwcodeportland/networking-nights/blob/master/networking-nights-2015-schedule.pdf)
-- [2016 Networking Night Schedule] (https://github.com/wwcodeportland/networking-nights/blob/master/networking-nights-2016-schedule.pdf)
-
 ##Format
 
 - Lightning Talks (shorter tech talks, 5-10 minutes each)
@@ -42,7 +37,12 @@ A monthly meetup to hear women speak about technology, make new connections, and
 - Workshop 
 - Around the World (split attendees in three to four different rooms for presentations)
 
-##Past Themes
+##Our Schedule
+
+- [2015 Networking Night Schedule](https://github.com/wwcodeportland/networking-nights/blob/master/networking-nights-2015-schedule.pdf)
+- [2016 Networking Night Schedule] (https://github.com/wwcodeportland/networking-nights/blob/master/networking-nights-2016-schedule.pdf)
+
+##Event Themes
 
 2015
 
@@ -69,7 +69,7 @@ A monthly meetup to hear women speak about technology, make new connections, and
 - Aug. 16 - R/West
 - Sept. - Treehouse
 
-##Graphics
+##Speakers
 
 <img height=200 src="graphics/wwcpdx-1-jaguarlandrover.jpg" title="Jaguar Land Rover">
 <img height=200 src="graphics/wwcpdx-2-elemental.jpg" title="Elemental">
