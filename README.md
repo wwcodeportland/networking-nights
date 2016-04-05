@@ -74,7 +74,7 @@ A monthly meetup to hear women speak about technology, make new connections, and
 
 <img height=200 src="graphics/wwcpdx-1-jaguarlandrover.jpg" title="Jaguar Land Rover">
 <img height=200 src="graphics/wwcpdx-2-elemental.jpg" title="Elemental">
-<img height=200 src="graphics/wwcpdx-3-crowd-compass.jpg" title="CrowdCompass">
+<img height=200 src="graphics/wwcpdx-3-crowdcompass.jpg" title="CrowdCompass">
 <img height=200 src="graphics/wwcpdx-4-newrelic.jpg" title="New Relic">
 <img height=200 src="graphics/wwcpdx-5-appnexus.jpg" title="AppNexus">
 <img height=200 src="graphics/wwcpdx-6-jama.jpg" title="Jama">
@@ -82,6 +82,9 @@ A monthly meetup to hear women speak about technology, make new connections, and
 <img height=200 src="graphics/wwcpdx-9-ebay.jpg" title="eBay">
 <img height=200 src="graphics/wwcpdx-10-nike.jpg" title="Nike">
 <img height=200 src="graphics/wwcpdx-11-puppet-labs.jpg" title="Puppet Labs">
+<img height=200 src="graphics/wwcpdx-12-airbnb.jpg" title="Airbnb">
+<img height=200 src="graphics/wwcpdx-13-metal-toad.jpg" title="Metal Toad">
+<img height=200 src="graphics/wwcpdx-14-intel.jpg" title="Intel">
 
 ##FAQs
 
