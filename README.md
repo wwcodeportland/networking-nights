@@ -66,7 +66,7 @@ A monthly meetup to hear women speak about technology, make new connections, and
 - March 8 - [Intel -] (http://www.meetup.com/Women-Who-Code-Portland/events/227870415/) "How Women Power Intel Open Source"
 - April 18 - New Tech PDX
 - June 10 - Instrument + 2nd Anniversary Party
-- Aug. 8 - WeWork / Women + Tech Summer Soiree
+- July 14 - WeWork / Women + Tech Summer Soiree
 - Aug. 16 - R/West
 - Sept. - Treehouse
 
