@@ -1,19 +1,6 @@
 # Networking Nights
 A monthly meetup to hear women speak about technology, make new connections, and help build a community of technical women in Portland.
 
-##Goals
-
-- provide an opportunity for engineers and technical women to speak about technology
-- learn about new technologies
-- make new connections
-- create a community of women who code and women learning to code in Portland
-
-##Our Events
-
-- [Past and Future Events](https://github.com/wwcodeportland/networking-nights/blob/master/networking-nights.md)
-- [2015 Networking Night Schedule](https://github.com/wwcodeportland/networking-nights/blob/master/networking-nights-2015-schedule.pdf)
-- [2016 Networking Night Schedule] (https://github.com/wwcodeportland/networking-nights/blob/master/networking-nights-2016-schedule.pdf)
-
 ##Companies Who Have Hosted Us
 
 <img height=100 src="logos/logo-jlr.png" title="Jaguar Land Rover">
@@ -35,6 +22,18 @@ A monthly meetup to hear women speak about technology, make new connections, and
 <img height=100 src="logos/logo-wework.png" title="WeWork">
 <img height=100 src="logos/logo-rwest.png" title="R/West">
 <img height=100 src="logos/logo-treehouse.png" title="Treehouse">
+
+##Goals
+
+- provide an opportunity for engineers and technical women to speak about technology
+- learn about new technologies
+- make new connections
+- create a community of women who code and women learning to code in Portland
+
+##Our Events
+
+- [2015 Networking Night Schedule](https://github.com/wwcodeportland/networking-nights/blob/master/networking-nights-2015-schedule.pdf)
+- [2016 Networking Night Schedule] (https://github.com/wwcodeportland/networking-nights/blob/master/networking-nights-2016-schedule.pdf)
 
 ##Format
 
