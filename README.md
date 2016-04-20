@@ -84,9 +84,9 @@ A monthly meetup to hear women speak about technology, make new connections, and
 <img height=200 src="graphics/wwcpdx-9-ebay.jpg" title="eBay">
 <img height=200 src="graphics/wwcpdx-10-nike.jpg" title="Nike">
 <img height=200 src="graphics/wwcpdx-11-puppet.jpg" title="Puppet Labs">
-<img height=150 src="graphics/wwcpdx-12-airbnb.jpg" title="Airbnb">
-<img height=150 src="graphics/wwcpdx-13-metaltoad.jpg" title="Metal Toad">
-<img height=150 src="graphics/wwcpdx-14-intel.jpg" title="Intel">
+<img height=130 src="graphics/wwcpdx-12-airbnb.jpg" title="Airbnb">
+<img height=130 src="graphics/wwcpdx-13-metaltoad.jpg" title="Metal Toad">
+<img height=130 src="graphics/wwcpdx-14-intel.jpg" title="Intel">
 <img height=200 src="graphics/wwcpdx-15-newtechpdx.jpg" title="New Tech PDX">
 
 ##FAQs
