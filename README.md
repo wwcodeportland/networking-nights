@@ -16,13 +16,13 @@ A monthly meetup to hear women speak about technology, make new connections, and
 <img height=100 src="logos/logo-newrelic.png" title="New Relic">
 <img height=100 src="logos/logo-appnexus.png" title="Appnexus">
 <img height=100 src="logos/logo-jama.png" title="Jama">
-<img height=100 src="logos/logo-urbanairship.png" title="Urban Airship">
+<img height=100 src="logos/logo-urbanairship.jpg" title="Urban Airship">
 <img height=100 src="logos/logo-quickleft.png" title="Quick Left">
 <img height=100 src="logos/logo-ebay.png" title="eBay">
 <img height=100 src="logos/logo-nike.png" title="Nike">
 <img height=100 src="logos/logo-puppetlabs.png" title="Puppet Labs">
 <img height=100 src="logos/logo-airbnb.png" title="Airbnb">
-<img height=100 src="logos/logo-metal-toad.png" title="Metal Toad">
+<img height=100 src="logos/logo-metaltoad.jpg" title="Metal Toad">
 <img height=100 src="logos/logo-intel.png" title="Intel">
 <img height=100 src="logos/logo-newtechpdx.png" title="New Tech PDX">
 <img height=100 src="logos/logo-mozilla.jpg" title="Mozilla">
