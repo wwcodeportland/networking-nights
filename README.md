@@ -70,6 +70,7 @@ A monthly meetup to hear women speak about technology, make new connections, and
 - July 14 - WeWork / Women + Tech Summer Soiree
 - Aug. 16 - R/West
 - Sept. - Treehouse
+- Oct. - New Relic
 
 ##Speakers
 
@@ -82,11 +83,11 @@ A monthly meetup to hear women speak about technology, make new connections, and
 <img height=200 src="graphics/wwcpdx-7-urbanairship.jpg" title="Urban Airship">
 <img height=200 src="graphics/wwcpdx-9-ebay.jpg" title="eBay">
 <img height=200 src="graphics/wwcpdx-10-nike.jpg" title="Nike">
-<img height=200 src="graphics/wwcpdx-11-puppet-labs.jpg" title="Puppet Labs">
-<img height=200 src="graphics/wwcpdx-12-airbnb.jpg" title="Airbnb">
-<img height=200 src="graphics/wwcpdx-13-metal-toad.jpg" title="Metal Toad">
-<img height=200 src="graphics/wwcpdx-14-intel.jpg" title="Intel">
-<img height=200 src="graphics/wwcpdx-15-new-tech-pdx.jpg" title="New Tech PDX">
+<img height=200 src="graphics/wwcpdx-11-puppet.jpg" title="Puppet Labs">
+<img height=100 src="graphics/wwcpdx-12-airbnb.jpg" title="Airbnb">
+<img height=100 src="graphics/wwcpdx-13-metaltoad.jpg" title="Metal Toad">
+<img height=100 src="graphics/wwcpdx-14-intel.jpg" title="Intel">
+<img height=200 src="graphics/wwcpdx-15-newtechpdx.jpg" title="New Tech PDX">
 
 ##FAQs
 
