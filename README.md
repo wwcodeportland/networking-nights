@@ -35,7 +35,7 @@ A monthly meetup to hear women speak about technology, make new connections, and
 
 - Lightning Talks (shorter tech talks, 5-10 minutes each)
 - Panel
-- Workshop 
+- Workshop
 - Around the World (split attendees in three to four different rooms for presentations)
 
 ##Our Schedule
@@ -52,12 +52,12 @@ A monthly meetup to hear women speak about technology, make new connections, and
 - May 14 - [CrowdCompass -] (http://www.meetup.com/Women-Who-Code-Portland/events/222216437/) "Building Products"
 - June 8 - [New Relic -] (http://www.meetup.com/Women-Who-Code-Portland/events/222804928/) "Future Talks"
 - July 28 - [AppNexus -] (http://www.meetup.com/Women-Who-Code-Portland/events/223973917/) "Around the Stack"
-- Aug. 4 - [Jama Software] (http://www.meetup.com/Women-Who-Code-Portland/events/224075227/) "Lessons Learned in the Tech Industry" 
+- Aug. 4 - [Jama Software] (http://www.meetup.com/Women-Who-Code-Portland/events/224075227/) "Lessons Learned in the Tech Industry"
 - Sept. 8 - [Urban Airship -] (http://www.meetup.com/Women-Who-Code-Portland/events/224842443/) "Never Stop Learning"
-- Oct. 6 - [Quick Left -] (http://www.meetup.com/Women-Who-Code-Portland/events/225695607/) "Women and Negotiation: Professional Happiness, One Conversation at a Time" 
+- Oct. 6 - [Quick Left -] (http://www.meetup.com/Women-Who-Code-Portland/events/225695607/) "Women and Negotiation: Professional Happiness, One Conversation at a Time"
 - Oct. 22 - [eBay -] (http://www.meetup.com/Women-Who-Code-Portland/events/225978076/) "Testing Your Metal in the Portland Tech Scene"
 - Nov. 3 - [Nike -] (http://www.meetup.com/Women-Who-Code-Portland/events/226195388/) "Creative Thinking in a Technical World"
-- Dec. 10 - [Puppet Labs / Women + Tech Holiday Party -] (http://www.meetup.com/Women-Who-Code-Portland/events/226200377/) "Raise Your Voice" 
+- Dec. 10 - [Puppet Labs / Women + Tech Holiday Party -] (http://www.meetup.com/Women-Who-Code-Portland/events/226200377/) "Raise Your Voice"
 
 2016
 
@@ -88,6 +88,7 @@ A monthly meetup to hear women speak about technology, make new connections, and
 <img height=134 src="graphics/wwcpdx-13-metaltoad.jpg" title="Metal Toad">
 <img height=134 src="graphics/wwcpdx-14-intel.jpg" title="Intel">
 <img height=200 src="graphics/wwcpdx-15-newtechpdx.jpg" title="New Tech PDX">
+<img height=200 src="graphics/wwcpdx-16-mozilla.jpg" title="Mozilla">
 
 ##FAQs
 
