@@ -70,8 +70,8 @@ A monthly meetup to hear women speak about technology, make new connections, and
 - March 8 - [Intel -] (http://www.meetup.com/Women-Who-Code-Portland/events/227870415/) "How Women Power Intel Open Source"
 - April 18 - [New Tech PDX] (http://www.meetup.com/Women-Who-Code-Portland/events/230443414/)
 - May 24 - [Mozilla -] (http://www.meetup.com/Women-Who-Code-Portland/events/230446085/) "Lightning Talks"
-- June 10 - [Instrument / 2nd Anniversary Party -] (http://www.meetup.com/Women-Who-Code-Portland/events/231386050/)
-- July 14 - [WeWork / Women + Tech Summer Soiree -] (http://www.meetup.com/Women-Who-Code-Portland/events/231401151/) "How Oregon Funds Innovation"
+- June 10 - [Instrument + New Relic / 2nd Anniversary Party] (http://www.meetup.com/Women-Who-Code-Portland/events/231386050/)
+- July 14 - [WeWork + Salesforce / Women + Tech Summer Soiree -] (http://www.meetup.com/Women-Who-Code-Portland/events/231401151/) "How Oregon Funds Innovation"
 - Aug. 16 - [R/West -] (http://www.meetup.com/Women-Who-Code-Portland/events/231403787/) "Women in Leadership"
 - Sept. - Treehouse
 - Oct. - New Relic
