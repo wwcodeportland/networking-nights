@@ -20,7 +20,7 @@ A monthly meetup to hear women speak about technology, make new connections, and
 <img height=100 src="logos/logo-quickleft.png" title="Quick Left">
 <img height=100 src="logos/logo-ebay.png" title="eBay">
 <img height=100 src="logos/logo-nike.png" title="Nike">
-<img height=100 src="logos/logo-puppetlabs.png" title="Puppet Labs">
+<img height=100 src="logos/logo-puppet.png" title="Puppet Labs">
 <img height=100 src="logos/logo-airbnb.png" title="Airbnb">
 <img height=100 src="logos/logo-metaltoad.jpg" title="Metal Toad">
 <img height=100 src="logos/logo-intel.png" title="Intel">
