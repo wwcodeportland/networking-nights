@@ -93,6 +93,7 @@ A monthly meetup to hear women speak about technology, make new connections, and
 <img height=134 src="graphics/wwcpdx-13-metaltoad.jpg" title="Metal Toad">
 <img height=134 src="graphics/wwcpdx-14-intel.jpg" title="Intel">
 <img height=200 src="graphics/wwcpdx-15-newtechpdx.jpg" title="New Tech PDX">
+<img height=200 src="graphics/wwcpdx-16-mozilla.jpg" title="Mozilla">
 <img height=200 src="graphics/wwcpdx-17-instrument.jpg" title="Instrument + New Relic">
 <img height=200 src="graphics/wwcpdx-18-wework.jpg" title="WeWork + Salesforce">
 
