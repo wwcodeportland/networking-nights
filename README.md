@@ -27,6 +27,7 @@ A monthly meetup to hear women speak about technology, make new connections, and
 <img height=100 src="logos/logo-newtechpdx.png" title="New Tech PDX">
 <img height=100 src="logos/logo-mozilla.jpg" title="Mozilla">
 <img height=100 src="logos/logo-instrument.png" title="Instrument">
+<img height=100 src="logos/logo-newrelic.png" title="New Relic">
 <img height=100 src="logos/logo-wework.png" title="WeWork">
 <img height=100 src="logos/logo-salesforce.png" title="Salesforce">
 <img height=100 src="logos/logo-codefellows.png" title="Code Fellows">
@@ -34,13 +35,12 @@ A monthly meetup to hear women speak about technology, make new connections, and
 <img height=100 src="logos/logo-treehouse.png" title="Treehouse">
 <img height=100 src="logos/logo-newrelic.png" title="New Relic">
 
-
 ##Format
 
 - Lightning Talks (shorter tech talks, 5-10 minutes each)
-- Panel
-- Workshop
-- Around the World (split attendees in three to four different rooms for presentations)
+- Panel (45 minute panel)
+- Workshop (45-90 minute workshop)
+- Around the World (split attendees in three to four different rooms for presentations, 10-15 minutes in each room, then the groups switch rooms)
 
 ##Our Schedule
 
@@ -72,9 +72,10 @@ A monthly meetup to hear women speak about technology, make new connections, and
 - May 24 - [Mozilla -] (http://www.meetup.com/Women-Who-Code-Portland/events/230446085/) "Lightning Talks"
 - June 10 - [Instrument + New Relic / 2nd Anniversary Party] (http://www.meetup.com/Women-Who-Code-Portland/events/231386050/)
 - July 14 - [WeWork + Salesforce / Women + Tech Summer Soiree -] (http://www.meetup.com/Women-Who-Code-Portland/events/231401151/) "How Oregon Funds Innovation"
+- Aug. 10 - Code Fellows PDX
 - Aug. 16 - [R/West -] (http://www.meetup.com/Women-Who-Code-Portland/events/231403787/) "Women in Leadership"
-- Sept. - Treehouse
-- Oct. - New Relic
+- Sept. 7 - Treehouse
+- Oct. 3 - New Relic
 
 ##Speakers
 
@@ -92,13 +93,10 @@ A monthly meetup to hear women speak about technology, make new connections, and
 <img height=134 src="graphics/wwcpdx-13-metaltoad.jpg" title="Metal Toad">
 <img height=134 src="graphics/wwcpdx-14-intel.jpg" title="Intel">
 <img height=200 src="graphics/wwcpdx-15-newtechpdx.jpg" title="New Tech PDX">
-<img height=200 src="graphics/wwcpdx-16-mozilla.jpg" title="Mozilla">
-<img height=200 src="graphics/wwcpdx-18-wework.jpg" title="WeWork">
+<img height=200 src="graphics/wwcpdx-17-instrument.jpg" title="Instrument + New Relic">
+<img height=200 src="graphics/wwcpdx-18-wework.jpg" title="WeWork + Salesforce">
 
 ##FAQs
 
-Link to page with FAQs - Coming soon...
-
-##Panel
-
-- [Example - Panel Questions](panel-questions.md)
+- Have questions? Want to host us? Visit our [FAQ](faqs.md) page.
+- This [to-do list] (event-to-do.md) is our checklist for event planning.
