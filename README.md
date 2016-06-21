@@ -44,8 +44,8 @@ A monthly meetup to hear women speak about technology, make new connections, and
 
 ##Our Schedule
 
-- [2015 Networking Night Schedule](https://github.com/wwcodeportland/networking-nights/blob/master/networking-nights-2015-schedule.jpeg)
-- [2016 Networking Night Schedule] (https://github.com/wwcodeportland/networking-nights/blob/master/networking-nights-2016-schedule.jpeg)
+<img height=200 src="networking-nights-2015-schedule.jpg" title="2015 Networking Nights">
+<img height=200 src="networking-nights-2016-schedule.jpg" title="2016 Networking Nights">
 
 ##Event Themes
 
