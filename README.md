@@ -44,8 +44,8 @@ A monthly meetup to hear women speak about technology, make new connections, and
 
 ##Our Schedule
 
-- [2015 Networking Night Schedule](https://github.com/wwcodeportland/networking-nights/blob/master/networking-nights-2015-schedule.pdf)
-- [2016 Networking Night Schedule] (https://github.com/wwcodeportland/networking-nights/blob/master/networking-nights-2016-schedule.pdf)
+- [2015 Networking Night Schedule](https://github.com/wwcodeportland/networking-nights/blob/master/networking-nights-2015-schedule.jpeg)
+- [2016 Networking Night Schedule] (https://github.com/wwcodeportland/networking-nights/blob/master/networking-nights-2016-schedule.jpeg)
 
 ##Event Themes
 
@@ -68,7 +68,7 @@ A monthly meetup to hear women speak about technology, make new connections, and
 - Jan. 14 - [Airbnb -] (http://www.meetup.com/Women-Who-Code-Portland/events/227343182/) "Airbnb Engineering Comes to Portland"
 - Feb. 18 - [Metal Toad -] (http://www.meetup.com/Women-Who-Code-Portland/events/227725819/) "Building the Future of Women in Tech"
 - March 8 - [Intel -] (http://www.meetup.com/Women-Who-Code-Portland/events/227870415/) "How Women Power Intel Open Source"
-- April 18 - [New Tech PDX] (http://www.meetup.com/Women-Who-Code-Portland/events/230443414/)
+- April 18 - [New Tech PDX] (http://www.meetup.com/Women-Who-Code-Portland/events/230443414/) "Women Who Code"
 - May 24 - [Mozilla -] (http://www.meetup.com/Women-Who-Code-Portland/events/230446085/) "Lightning Talks"
 - June 10 - [Instrument + New Relic / 2nd Anniversary Party] (http://www.meetup.com/Women-Who-Code-Portland/events/231386050/)
 - July 14 - [WeWork + Salesforce / Women + Tech Summer Soiree -] (http://www.meetup.com/Women-Who-Code-Portland/events/231401151/) "How Oregon Funds Innovation"
