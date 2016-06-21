@@ -44,8 +44,8 @@ A monthly meetup to hear women speak about technology, make new connections, and
 
 ##Our Schedule
 
-<img height=360 src="networking-nights-2015-schedule.jpg" title="2015 Networking Nights">
-<img height=360 src="networking-nights-2016-schedule.jpg" title="2016 Networking Nights">
+<img height=300 src="networking-nights-2015-schedule.jpg" title="2015 Networking Nights">
+<img height=300 src="networking-nights-2016-schedule.jpg" title="2016 Networking Nights">
 
 ##Event Themes
 
