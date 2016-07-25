@@ -1,34 +1,40 @@
-##Event To Do
+# Study Night - To Do List
 
-###2-3 Months Before Event
-- Finalize date and venue
-- Check out venue
-- Get at least two people from the hosting company to confirm date/involvement
-- Schedule call with hosting company to answer any of their questions about the event
-- Post "Save the Date" to Meetup page
+A study group is a fun and simple event for members of varying experience levels. The format is also very friendly to drop-in attendees who are unable to join regularly.
 
-##1 Month Before Event
-- Check in with organizers. 
-- Offer help/advise to speakers. If moderator of panel, schedule a lunch with all panelists.
+## Before the Event
+- Find a Venue:
+  - tables near outlets
+  - wifi
+  - white board and projector (ideally)
+  - accessible by public transportation
+  - snacks or food
+- Set up an Event on Meetup:
+  - describe format of the event
+  - who is the audience
+  - add Code of Conduct
+  - parking/biking/getting there intructions
+- Market the Event:
+  - Calagator
+  - Add to our newsletter
+  - Tweet and schedule tweets
 
-##2 Weeks Before Event
-- Speakers finalized and announced on meetup page
-- Once speakers are finalized, post event to Calagator and various Portland Slack channels
-- Create graphics for event advertising
-- Tweet, tweet, and schedule tweets
-
-##Day Before Event
+# Week Before Event
 - Send event reminder with instructions on how to get to/enter venue
-- Send organizers Keynote with looping bckground presentation. 
-- Finalize slides for Women Who Code Intro.
 
-##Day of Event
+# Day of Event
 - Email to hosting company with last-minute details (RSVPs, what time WWC will arrive, nametags, etc)
-- Arrive one hour prior to event start
-- bring stickers, pins, giveaways
+- Arrive 30-min prior to event start
+- bring stickers, pins, giveaways (if any)
+- set-up space
+- put out snacks or food
+- write our wifi+password
 
-##Day After Event
+# After the Event
+- Thank the host
+- Help clean up
+
+# The Week After the Event
 - Thank you email to attendees, with upcoming events listed
-- Thank you letters to all organizers and speakers
 - Post pictures to Meetup
 - Tweet and retweet photos from the event
