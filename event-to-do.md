@@ -1,40 +1,25 @@
-# Study Night - To Do List
+# Event To Do
 
-A study group is a fun and simple event for members of varying experience levels. The format is also very friendly to drop-in attendees who are unable to join regularly.
+## 2-3 Months Before Event
+- Finalize date and venue
+- Get at least two people from the hosting company to confirm date/involvement
+- Schedule call with hosting company to answer any of their questions about the event
+- "Save the Date" to Meetup page
 
-## Before the Event
-- Find a Venue:
-  - tables near outlets
-  - wifi
-  - white board and projector (ideally)
-  - accessible by public transportation
-  - snacks or food
-- Set up an Event on Meetup:
-  - describe format of the event
-  - who is the audience
-  - add Code of Conduct
-  - parking/biking/getting there intructions
-- Market the Event:
-  - Calagator
-  - Add to our newsletter
-  - Tweet and schedule tweets
+## 2 weeks before event
+- Speakers finalized and announced on meetup page
+- Once speakers are finalized, post event to Calagator and various Portland Slack channels
+- Create graphics for event advertising
+- Tweet, tweet, and schedule tweets
 
-## Week Before Event
+## Day Before Event
 - Send event reminder with instructions on how to get to/enter venue
 
 ## Day of Event
 - Email to hosting company with last-minute details (RSVPs, what time WWC will arrive, nametags, etc)
-- Arrive 30-min prior to event start
-- bring stickers, pins, giveaways (if any)
-- set-up space
-- put out snacks or food
-- write our wifi+password
+- Arrive one hour prior to event start
+- Bring stickers, pins, giveaways
 
-## After the Event
-- Thank the host
-- Help clean up
-
-## The Week After the Event
+## Day After Event
 - Thank you email to attendees, with upcoming events listed
-- Post pictures to Meetup
-- Tweet and retweet photos from the event
+- Thank you letters to all organizers and speakers
