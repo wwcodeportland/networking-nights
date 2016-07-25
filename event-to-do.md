@@ -19,10 +19,10 @@ A study group is a fun and simple event for members of varying experience levels
   - Add to our newsletter
   - Tweet and schedule tweets
 
-# Week Before Event
+## Week Before Event
 - Send event reminder with instructions on how to get to/enter venue
 
-# Day of Event
+## Day of Event
 - Email to hosting company with last-minute details (RSVPs, what time WWC will arrive, nametags, etc)
 - Arrive 30-min prior to event start
 - bring stickers, pins, giveaways (if any)
@@ -30,11 +30,11 @@ A study group is a fun and simple event for members of varying experience levels
 - put out snacks or food
 - write our wifi+password
 
-# After the Event
+## After the Event
 - Thank the host
 - Help clean up
 
-# The Week After the Event
+## The Week After the Event
 - Thank you email to attendees, with upcoming events listed
 - Post pictures to Meetup
 - Tweet and retweet photos from the event
