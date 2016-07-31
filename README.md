@@ -79,23 +79,30 @@ A monthly meetup to hear women speak about technology, make new connections, and
 
 ##Speakers
 
-<img height=200 src="graphics/wwcpdx-1-jaguarlandrover.jpg" title="Jaguar Land Rover">
-<img height=200 src="graphics/wwcpdx-2-elemental.jpg" title="Elemental">
-<img height=200 src="graphics/wwcpdx-3-crowdcompass.jpg" title="CrowdCompass">
-<img height=200 src="graphics/wwcpdx-4-newrelic.jpg" title="New Relic">
-<img height=200 src="graphics/wwcpdx-5-appnexus.jpg" title="AppNexus">
-<img height=200 src="graphics/wwcpdx-6-jama.jpg" title="Jama">
-<img height=200 src="graphics/wwcpdx-7-urbanairship.jpg" title="Urban Airship">
-<img height=200 src="graphics/wwcpdx-9-ebay.jpg" title="eBay">
-<img height=200 src="graphics/wwcpdx-10-nike.jpg" title="Nike">
-<img height=200 src="graphics/wwcpdx-11-puppet.jpg" title="Puppet Labs">
-<img height=134 src="graphics/wwcpdx-12-airbnb.jpg" title="Airbnb">
-<img height=134 src="graphics/wwcpdx-13-metaltoad.jpg" title="Metal Toad">
-<img height=134 src="graphics/wwcpdx-14-intel.jpg" title="Intel">
-<img height=200 src="graphics/wwcpdx-15-newtechpdx.jpg" title="New Tech PDX">
-<img height=200 src="graphics/wwcpdx-16-mozilla.jpg" title="Mozilla">
-<img height=200 src="graphics/wwcpdx-17-instrument.jpg" title="Instrument + New Relic">
-<img height=200 src="graphics/wwcpdx-18-wework.jpg" title="WeWork + Salesforce">
+See a full list of [past speakers] (past-speakers.md).
+
+<img height=180 src="graphics/wwcpdx-1-jaguarlandrover.jpg" title="Jaguar Land Rover">
+<img height=180 src="graphics/wwcpdx-2-elemental.jpg" title="Elemental">
+<img height=180 src="graphics/wwcpdx-3-crowdcompass.jpg" title="CrowdCompass">
+<img height=180 src="graphics/wwcpdx-4-newrelic.jpg" title="New Relic">
+
+<img height=210 src="graphics/wwcpdx-5-appnexus.jpg" title="AppNexus">
+<img height=210 src="graphics/wwcpdx-6-jama.jpg" title="Jama">
+<img height=210 src="graphics/wwcpdx-7-urbanairship.jpg" title="Urban Airship">
+<img height=210 src="graphics/wwcpdx-9-ebay.jpg" title="eBay">
+
+<img height=163 src="graphics/wwcpdx-10-nike.jpg" title="Nike">
+<img height=163 src="graphics/wwcpdx-11-puppet.jpg" title="Puppet Labs">
+<img height=163 src="graphics/wwcpdx-15-newtechpdx.jpg" title="New Tech PDX">
+<img height=163 src="graphics/wwcpdx-16-mozilla.jpg" title="Mozilla">
+
+<img height=140 src="graphics/wwcpdx-12-airbnb.jpg" title="Airbnb">
+<img height=140 src="graphics/wwcpdx-13-metaltoad.jpg" title="Metal Toad">
+<img height=140 src="graphics/wwcpdx-14-intel.jpg" title="Intel">
+
+<img height=184 src="graphics/wwcpdx-17-instrument.jpg" title="Instrument + New Relic">
+<img height=184 src="graphics/wwcpdx-18-wework.jpg" title="WeWork + Salesforce">
+<img height=184 src="graphics/wwcpdx-20-rwest.jpg" title="R/West">
 
 ##FAQs
 
