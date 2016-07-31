@@ -7,3 +7,34 @@
 - [Sheena Provan] (https://www.linkedin.com/in/sheena-huxley-duggan-provan-bb74374) - Director of Interactive at R/West 
 - [Beth Long] (https://www.linkedin.com/in/beth-adele-long-96a07a2) - Technical Team Lead & Backend Developer at Planet Argon
 - Panel Moderator: [Chandni Patel] (https://www.linkedin.com/in/chandni-patel-3605594) - VP of PR and Brand Strategy at R/West NY Office
+
+#### Networking Night @ Code Fellows 
+
+#### Networking Night @ WeWork + Salesforce / Women + Tech Summer Soiree - "How Oregon Funds Innovation"
+
+#### Networking Night @ Instrument - "Women Who Code Portland 2nd Anniversary Party"
+
+#### Networking Night @ Mozilla
+
+#### Networking Night w/ New Tech PDX - "Women Entrepreneurs Who Code"
+
+#### Networking Night @ Intel 
+
+### Networking Night @ Metal Toad
+
+### Networking Night @ Metal Toad
+
+### Networking Night @ Metal Toad
+
+### Networking Night @ Metal Toad
+
+### Networking Night @ Metal Toad
+
+
+
+
+
+
+
+
+
