@@ -1,14 +1,14 @@
 # Networking Nights
 A monthly meetup to hear women speak about technology, make new connections, and help build a community of technical women in Portland.
 
-##Goals
+## Goals
 
 - provide an opportunity for engineers and technical women to speak about technology
 - learn about new technologies
 - make new connections
 - create a community of women who code and women learning to code in Portland
 
-##Companies Who Have Hosted Us
+## Companies Who Have Hosted Us
 
 <img height=100 src="logos/logo-jlr.png" title="Jaguar Land Rover">
 <img height=100 src="logos/logo-elemental.png" title="Elemental Technologies">
@@ -35,49 +35,49 @@ A monthly meetup to hear women speak about technology, make new connections, and
 <img height=100 src="logos/logo-treehouse.png" title="Treehouse">
 <img height=100 src="logos/logo-newrelic.png" title="New Relic">
 
-##Format
+## Format
 
 - Lightning Talks (shorter tech talks, 5-10 minutes each)
 - Panel (45 minute panel)
 - Workshop (45-90 minute workshop)
 - Around the World (split attendees in three to four different rooms for presentations, 10-15 minutes in each room, then the groups switch rooms)
 
-##Our Schedule
+## Our Schedule
 
 <img height=300 src="graphics/networking-nights-2015-schedule.jpg" title="2015 Networking Nights">
 <img height=300 src="graphics/networking-nights-2016-schedule.jpg" title="2016 Networking Nights">
 
-##Event Themes
+## Event Themes
 
 2015
 
-- March 5 - [Jaguar Land Rover -] (http://www.meetup.com/Women-Who-Code-Portland/events/220626662/) "Open Software Technology Center Tech Talks"
-- April 30 - [Elemental Technologies -] (http://www.meetup.com/Women-Who-Code-Portland/events/221404142/) "A Discussion on Tech Careers"
-- May 14 - [CrowdCompass -] (http://www.meetup.com/Women-Who-Code-Portland/events/222216437/) "Building Products"
-- June 8 - [New Relic -] (http://www.meetup.com/Women-Who-Code-Portland/events/222804928/) "Future Talks"
-- July 28 - [AppNexus -] (http://www.meetup.com/Women-Who-Code-Portland/events/223973917/) "Around the Stack"
-- Aug. 4 - [Jama Software] (http://www.meetup.com/Women-Who-Code-Portland/events/224075227/) "Lessons Learned in the Tech Industry"
-- Sept. 8 - [Urban Airship -] (http://www.meetup.com/Women-Who-Code-Portland/events/224842443/) "Never Stop Learning"
-- Oct. 6 - [Quick Left -] (http://www.meetup.com/Women-Who-Code-Portland/events/225695607/) "Women and Negotiation: Professional Happiness, One Conversation at a Time"
-- Oct. 22 - [eBay -] (http://www.meetup.com/Women-Who-Code-Portland/events/225978076/) "Testing Your Metal in the Portland Tech Scene"
-- Nov. 3 - [Nike -] (http://www.meetup.com/Women-Who-Code-Portland/events/226195388/) "Creative Thinking in a Technical World"
-- Dec. 10 - [Puppet Labs / Women + Tech Holiday Party -] (http://www.meetup.com/Women-Who-Code-Portland/events/226200377/) "Raise Your Voice"
+- March 5 - [Jaguar Land Rover](http://www.meetup.com/Women-Who-Code-Portland/events/220626662/) - "Open Software Technology Center Tech Talks"
+- April 30 - [Elemental Technologies](http://www.meetup.com/Women-Who-Code-Portland/events/221404142/) - "A Discussion on Tech Careers"
+- May 14 - [CrowdCompass](http://www.meetup.com/Women-Who-Code-Portland/events/222216437/) - "Building Products"
+- June 8 - [New Relic](http://www.meetup.com/Women-Who-Code-Portland/events/222804928/) - "Future Talks"
+- July 28 - [AppNexus](http://www.meetup.com/Women-Who-Code-Portland/events/223973917/) - "Around the Stack"
+- Aug. 4 - [Jama Software](http://www.meetup.com/Women-Who-Code-Portland/events/224075227/) - "Lessons Learned in the Tech Industry"
+- Sept. 8 - [Urban Airship](http://www.meetup.com/Women-Who-Code-Portland/events/224842443/) - "Never Stop Learning"
+- Oct. 6 - [Quick Left](http://www.meetup.com/Women-Who-Code-Portland/events/225695607/) - "Women and Negotiation: Professional Happiness, One Conversation at a Time"
+- Oct. 22 - [eBay](http://www.meetup.com/Women-Who-Code-Portland/events/225978076/) - "Testing Your Metal in the Portland Tech Scene"
+- Nov. 3 - [Nike](http://www.meetup.com/Women-Who-Code-Portland/events/226195388/) - "Creative Thinking in a Technical World"
+- Dec. 10 - [Puppet Labs / Women+Tech Holiday Party](http://www.meetup.com/Women-Who-Code-Portland/events/226200377/) - "Raise Your Voice"
 
 2016
 
-- Jan. 14 - [Airbnb -] (http://www.meetup.com/Women-Who-Code-Portland/events/227343182/) "Airbnb Engineering Comes to Portland"
-- Feb. 18 - [Metal Toad -] (http://www.meetup.com/Women-Who-Code-Portland/events/227725819/) "Building the Future of Women in Tech"
-- March 8 - [Intel -] (http://www.meetup.com/Women-Who-Code-Portland/events/227870415/) "How Women Power Intel Open Source"
-- April 18 - [New Tech PDX] (http://www.meetup.com/Women-Who-Code-Portland/events/230443414/) "Women Who Code"
-- May 24 - [Mozilla -] (http://www.meetup.com/Women-Who-Code-Portland/events/230446085/) "Lightning Talks"
-- June 10 - [Instrument + New Relic / 2nd Anniversary Party] (http://www.meetup.com/Women-Who-Code-Portland/events/231386050/)
-- July 14 - [WeWork + Salesforce / Women + Tech Summer Soiree -] (http://www.meetup.com/Women-Who-Code-Portland/events/231401151/) "How Oregon Funds Innovation"
-- Aug. 10 - Code Fellows PDX
-- Aug. 16 - [R/West -] (http://www.meetup.com/Women-Who-Code-Portland/events/231403787/) "Women in Leadership"
+- Jan. 14 - [Airbnb](http://www.meetup.com/Women-Who-Code-Portland/events/227343182/) - "Airbnb Engineering Comes to Portland"
+- Feb. 18 - [Metal Toad](http://www.meetup.com/Women-Who-Code-Portland/events/227725819/) - "Building the Future of Women in Tech"
+- March 8 - [Intel](http://www.meetup.com/Women-Who-Code-Portland/events/227870415/) - "How Women Power Intel Open Source"
+- April 18 - [New Tech PDX](http://www.meetup.com/Women-Who-Code-Portland/events/230443414/) - "Women Who Code"
+- May 24 - [Mozilla](http://www.meetup.com/Women-Who-Code-Portland/events/230446085/) - "Lightning Talks"
+- June 10 - [Instrument + New Relic / 2nd Anniversary Party](http://www.meetup.com/Women-Who-Code-Portland/events/231386050/)
+- July 14 - [WeWork + Salesforce / Women+Tech Summer Soiree](http://www.meetup.com/Women-Who-Code-Portland/events/231401151/) - "How Oregon Funds Innovation"
+- Aug. 10 - [Code Fellows PDX](http://www.meetup.com/Women-Who-Code-Portland/events/232784915/) - "A Journey of a Female Coder"
+- Aug. 16 - [R/West](http://www.meetup.com/Women-Who-Code-Portland/events/231403787/) - "Women in Leadership"
 - Sept. 7 - Treehouse
 - Oct. 3 - New Relic
 
-##Speakers
+## Speakers
 
 <img height=200 src="graphics/wwcpdx-1-jaguarlandrover.jpg" title="Jaguar Land Rover">
 <img height=200 src="graphics/wwcpdx-2-elemental.jpg" title="Elemental">
@@ -97,7 +97,7 @@ A monthly meetup to hear women speak about technology, make new connections, and
 <img height=200 src="graphics/wwcpdx-17-instrument.jpg" title="Instrument + New Relic">
 <img height=200 src="graphics/wwcpdx-18-wework.jpg" title="WeWork + Salesforce">
 
-##FAQs
+## FAQs
 
 - Have questions? Want to host us? Visit our [FAQ](faqs.md) page.
-- This [to-do list] (event-to-do.md) is our checklist for event planning.
+- This [to-do list](event-to-do.md) is our checklist for event planning.
