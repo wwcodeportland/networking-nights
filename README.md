@@ -107,4 +107,4 @@ See a full list of [past speakers] (past-speakers.md).
 ## FAQs
 
 - Have questions? Want to host us? Visit our [FAQ](faqs.md) page.
-- This [to-do list](event-to-do.md) is our checklist for event planning.
+- This [to-do list](event-planning/event-to-do.md) is our checklist for event planning.
