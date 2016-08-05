@@ -72,18 +72,18 @@
 - Emcee: [Laura Stepp](https://www.linkedin.com/in/laurakstepp) - VP of HR/People, Puppet
 
 #### Nov. 3 - Networking Night @ Nike - "Creative Thinking in a Technical World"
-- Introduction: Kathy Kitayama, Senior Director, Digital Product Management
-- Sandy Jacobs - Senior Engineer
-- Margaret Wang - Engineering Development Manager
-- Amber Milavec - Commerce Technical Architect
-- Katie Boyd - Web Developer
+- Introduction: [Kathy Kitayama](https://www.linkedin.com/in/kathy-kitayama-6026691), Senior Director, Digital Product Management, Nike
+- [Sandy Jacobs](https://www.linkedin.com/in/sandy-jacobs-4653282) - Senior Engineer, Nike
+- [Margaret Wang](https://www.linkedin.com/in/margaret-wang-0335324) - Engineering Development Manager, Nike
+- [Amber Milavec](https://twitter.com/noneonnone) - Commerce Technical Architect, Nike
+- [Katie Boyd](https://twitter.com/katiediy) - Web Developer, Nike
 
 #### Oct. 22 - Networking Night @ eBay - "Testing Your Metal in the Portland Tech Scene"
-- Gail Fredericks - Senior Director of Commerce OS at eBay
-- Elizabeth Hernandez - Software Engineer, iOS QA
-- Padmashree Koneti - Lead Product Manager, Technical
-- Peggy McDonald - Manager, Product Management
-- Diana Dukart - Software Engineer
+- [Gail Fredericks](https://www.linkedin.com/in/gfred) - Senior Director of Commerce OS, eBay
+- [Elizabeth Hernandez](https://www.linkedin.com/in/elizarline) - Software Engineer, iOS QA, eBay
+- [Padmashree Koneti](https://www.linkedin.com/in/padmashree-koneti-2561aa1) - Lead Product Manager, Technical, eBay
+- [Peggy McDonald](https://www.linkedin.com/in/peggymacdonald) - Manager, Product Management, eBay
+- [Diana Dukart](https://www.linkedin.com/in/diana-dukart-13921a2) - Software Engineer, eBay
 
 #### Oct. 6 - Networking Night @ Quick Left - "Women and Negotiation: Professional Happiness, One Conversation at a Time"
 - [Karen O’Keefe](https://www.linkedin.com/in/karenmokeefe) - Founder, Advanced Negotiation Strategies
@@ -125,9 +125,9 @@
 - Emcee - [Liz Abinante](https://twitter.com/feministy) - Senior Software Engineer, New Relic
 
 #### May 14 - Networking Night @ CrowdCompass - "Building Products"
-- Shiloh Frauen - Systems Analyst - "Shifting Perspectives: Moving from Client Services to Technology"
-- Cami Dodson - User Experience Team Lead - "The Journey to Find CrowdCompass and their Expansive Product and Workplace"
-- Andy Rosic - Senior Product Manager - "The Accidental Product Manager”
+- [Shiloh Frauen](https://www.linkedin.com/in/shiloh-frauen-6378668b) - Systems Analyst - "Shifting Perspectives: Moving from Client Services to Technology"
+- [Cami Dodson](https://www.linkedin.com/in/camidodson) - User Experience Team Lead - "The Journey to Find CrowdCompass and their Expansive Product and Workplace"
+- [Andy Rosic](https://www.linkedin.com/in/arosic) - Senior Product Manager - "The Accidental Product Manager”
 
 #### April. 30 - Networking Night @ Elemental Technologies - "A Discussion on Tech Careers"
 - [Sabina Andersson](https://www.linkedin.com/in/sabina-andersson-3a69015b) - Product Manager

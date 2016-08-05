@@ -79,7 +79,7 @@ A monthly meetup to hear women speak about technology, make new connections, and
 
 ## Speakers
 
-See a full list of [past speakers] (past-speakers.md).
+See a full list of [past speakers](past-speakers.md).
 
 <img height=180 src="graphics/wwcpdx-1-jaguarlandrover.jpg" title="Jaguar Land Rover">
 <img height=180 src="graphics/wwcpdx-2-elemental.jpg" title="Elemental">
