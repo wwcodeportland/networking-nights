@@ -1,12 +1,12 @@
 ## Past Speakers
 
 #### Aug. 16 - Networking Night @ R/West - "Women in Leadership"
-- [Jenny Moede](https://www.linkedin.com/in/jennymoede) - CEO at Citizen, Inc.
-- [Kimberly Barta](https://www.linkedin.com/in/kbarta) - Global Marketing Director at SOREL
-- [Tawny Schlieski](https://www.linkedin.com/in/tawny-schlieski-984b641) - President of Oregon Story Board and Director of Desktop Research at Intel Corporation
-- [Sheena Provan](https://www.linkedin.com/in/sheena-huxley-duggan-provan-bb74374) - Director of Interactive at R/West
-- [Beth Long](https://www.linkedin.com/in/beth-adele-long-96a07a2) - Technical Team Lead & Backend Developer at Planet Argon
-- Panel Moderator: [Chandni Patel](https://www.linkedin.com/in/chandni-patel-3605594) - VP of PR and Brand Strategy at R/West NY Office
+- [Jenny Moede](https://www.linkedin.com/in/jennymoede) - CEO, Citizen Inc.
+- [Kimberly Barta](https://www.linkedin.com/in/kbarta) - Global Marketing Director, SOREL
+- [Tawny Schlieski](https://www.linkedin.com/in/tawny-schlieski-984b641) - President, Oregon Story Board, and Director of Desktop Research, Intel Corporation
+- [Sheena Provan](https://www.linkedin.com/in/sheena-huxley-duggan-provan-bb74374) - Director of Interactive, R/West
+- [Beth Long](https://www.linkedin.com/in/beth-adele-long-96a07a2) - Technical Team Lead & Backend Developer, Planet Argon
+- Panel Moderator: [Chandni Patel](https://www.linkedin.com/in/chandni-patel-3605594) - VP of PR and Brand Strategy, R/West NYC
 
 #### July 14 - Networking Night @ WeWork + Salesforce / Women + Tech Summer Soiree - "How Oregon Funds Innovation"
 - [Monica Enand](https://www.linkedin.com/in/monicaenand) - CEO, Zapproved
@@ -43,8 +43,8 @@
   - [Terri Oda](https://twitter.com/terriko) - Security Researcher, Intel Corporation
   - [Constanza Heath](https://twitter.com/hackermnementh) - Security Researcher, Intel Corporation
 - "Topic #2: Graphics, Systems Engineering, Chrome"
-  - [Kristen Accardi](https://www.linkedin.com/in/kristen-accardi-017a6928) - Linux Kernel Sofware Engineer, Open Source Technology Group, Intel Corporation
-  - [Alexandra Yates](https://twitter.com/MgnoliaTitanium) - Linux Kernel Sofware Engineer, Open Source Technology Group, Intel Corporation
+  - [Kristen Accardi](https://www.linkedin.com/in/kristen-accardi-017a6928) - Linux Kernel Software Engineer, Open Source Technology Group, Intel Corporation
+  - [Alexandra Yates](https://twitter.com/MgnoliaTitanium) - Linux Kernel Software Engineer, Open Source Technology Group, Intel Corporation
 - "Topic #3: UX Design"
   - [Shelly Walbert](https://www.linkedin.com/in/shellywalbert) - Senior Experience Designer / Researcher, Intel Corporation
 - "Topic #4: Android development, QA"
@@ -89,13 +89,13 @@
 - [Karen O’Keefe](https://www.linkedin.com/in/karenmokeefe) - Founder, Advanced Negotiation Strategies
 
 #### Sept. 8 - Networking Night @ Urban Airship - "Never Stop Learning"
-- Lisa Orr - Data Scientist
-- Helen Crowell - Mobile Engineer (Android)
-- Mele Sax-Barnett - Ops/Dev Productivity Manager
-- Jhenna Voorhis - Associate Customer Engineer
-- Amanda Houle - Associate Customer Engineer
-- Andrea Burton - Senior Product Designer
-- Lisa Hewus-Fresh  Professional Services Engineer
+- [Lisa Orr](https://www.linkedin.com/in/lisaorr) - Data Scientist
+- [Helen Crowell](https://twitter.com/helencrowell) - Mobile Engineer (Android)
+- [Mele Sax-Barnett](https://twitter.com/pdxmele) - Ops/Dev Productivity Manager
+- [Jhenna Voorhis](https://www.linkedin.com/in/jhenna-voorhis-8a6a2694) - Associate Customer Engineer
+- [Amanda Houle](https://www.linkedin.com/in/amandahoule) - Associate Customer Engineer
+- [Andrea Burton](https://www.linkedin.com/in/andrea-burton-6142a36) - Senior Product Designer
+- [Lisa Hewus-Fresh](https://twitter.com/bugZPDX) - Professional Services Engineer
 - Panel Moderator: [Caterina Paun](https://twitter.com/caterinasworld) - Director, Women Who Code Portland
 
 #### Aug. 4 - Networking Night @ Jama Software "Lessons Learned in the Tech Industry"
@@ -107,12 +107,9 @@
 - Panel Moderator: [Caterina Paun](https://twitter.com/caterinasworld) - Director, Women Who Code Portland
 
 #### July 28 - Networking Night @ AppNexus - "Around the Stack"
-- Esha Peddireddy - Software Engineer
-- Alison Stump - UI/UX Prototyper
-- Becca Conneely - Data Scientist
-- Stephanie Tzeng - Data Scientist
-- Nerissa Lemon - Technical Intern
-- Katie Hughes - Technical Intern
+- "Topic #1: Front-end Development" - Esha Peddireddy, Software Engineer, and Alison Stump, UI/UX Prototyper
+- "Topic #2: Data Science" - Becca Conneely, Data Scientist, and Stephanie Tzeng, Data Scientist
+- "Topic #3: Technical Internships" - Nerissa Lemon, Technical Intern, and Katie Hughes, Technical Intern
 - Allison Krug - Technical Recruiter
 
 #### June 8 - Networking Night @ New Relic - "Future Talks"
@@ -131,9 +128,9 @@
 
 #### April. 30 - Networking Night @ Elemental Technologies - "A Discussion on Tech Careers"
 - [Sabina Andersson](https://www.linkedin.com/in/sabina-andersson-3a69015b) - Product Manager
-- Joan Morgan - QA Engineer
-- Meghan Mueller-Cox - Release Manager
-- Jenna Hildebrand - QA Engineer
+- [Joan Morgan](https://www.linkedin.com/in/joan-morgan-967b0b106) - QA Engineer
+- [Meghan Mueller-Cox](https://www.linkedin.com/in/meghan-mueller-cox-70846332) - Release Manager
+- [Jenna Hildebrand](https://www.linkedin.com/in/jenna-hildebrand-a7041045) - QA Engineer
 - Panel Moderator: [Caterina Paun](https://twitter.com/caterinasworld) - Director, Women Who Code Portland
 
 #### March 5 - Networking Night @ Jaguar Land Rover - "Open Software Technology Center Tech Talks"
