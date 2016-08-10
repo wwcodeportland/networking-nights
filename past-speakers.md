@@ -14,13 +14,13 @@
 - Yvonne Haynes - Code Fellows graduate
 - Panel Moderator: [Sabina Andersson](https://www.linkedin.com/in/sabina-andersson-3a69015b) - Elemental Technologies and Women Who Code Portland
 
-#### July 14 - Networking Night @ WeWork + Salesforce / Women + Tech Summer Soiree - "How Oregon Funds Innovation"
+#### Jul. 14 - Networking Night @ WeWork + Salesforce / Women + Tech Summer Soiree - "How Oregon Funds Innovation"
 - [Monica Enand](https://www.linkedin.com/in/monicaenand) - CEO, Zapproved
 - [Angela Jackson](https://www.linkedin.com/in/angelajackson) - Managing Director, Portland Seed Fund
 - [Julie Gulla](https://www.linkedin.com/in/julie-gulla-4ba154) - Senior Portfolio Manager, Executive Financial Services Director, Wealth Advisor at Morgan Stanley
 - Panel Moderator: [Shannon Heim](https://www.linkedin.com/in/shannonheim) - Elemental Technologies
 
-#### June 10 - Networking Night @ Instrument - "Women Who Code Portland 2nd Anniversary Party"
+#### Jun. 10 - Networking Night @ Instrument - "Women Who Code Portland 2nd Anniversary Party"
 - [Tina Snow Le](https://www.instagram.com/tinasnowle/) - Art Director, Instrument
 - [Violet Peña](http://violet.is/) - Web Developer, Instrument
 - [Alexis Johnson](https://twitter.com/alexissantina) - IT, Instrument
@@ -37,7 +37,7 @@
 - [Jim Blandy](https://twitter.com/jimblandy) - “Systems Programing in Rust”
 - [Dietrich Ayala](https://twitter.com/dietrich) - “Turning Sensors Into Signals”
 
-#### April. 18 - Networking Night w/ New Tech PDX - "Women Entrepreneurs Who Code"
+#### Apr. 18 - Networking Night w/ New Tech PDX - "Women Entrepreneurs Who Code"
 - [Aja Bogdanoff](https://twitter.com/ajabog) - CEO, Civil Comments
 - [Kathryn Brown](https://twitter.com/kathrynmbrown) - CEO, ScoutSavvy
 - [Paola Moretto](https://twitter.com/paolamoretto3) - CEO, Nouvola
@@ -112,7 +112,7 @@
 - Jess Stetson — Solutions Architect
 - Panel Moderator: [Caterina Paun](https://twitter.com/caterinasworld) - Director, Women Who Code Portland
 
-#### July 28 - Networking Night @ AppNexus - "Around the Stack"
+#### Jul. 28 - Networking Night @ AppNexus - "Around the Stack"
 - Esha Peddireddy - Software Engineer
 - Alison Stump - UI/UX Prototyper
 - Becca Conneely - Data Scientist
@@ -121,7 +121,7 @@
 - Katie Hughes - Technical Intern
 - Allison Krug - Technical Recruiter
 
-#### June 8 - Networking Night @ New Relic - "Future Talks"
+#### Jun. 8 - Networking Night @ New Relic - "Future Talks"
 - Alice Goldfuss - Site Reliability Engineer - "Docker in a Flash"
 - Ashley Puls - Senior Software Engineer - "Why, When, and How to Measure Performance"
 - Kate Morrow - Engineering Manager - "Programming for Humans: API Design as User Experience Design"
@@ -135,14 +135,14 @@
 - Cami Dodson - User Experience Team Lead - "The Journey to Find CrowdCompass and their Expansive Product and Workplace"
 - Andy Rosic - Senior Product Manager - "The Accidental Product Manager”
 
-#### April. 30 - Networking Night @ Elemental Technologies - "A Discussion on Tech Careers"
+#### Apr. 30 - Networking Night @ Elemental Technologies - "A Discussion on Tech Careers"
 - [Sabina Andersson](https://www.linkedin.com/in/sabina-andersson-3a69015b) - Product Manager
 - Joan Morgan - QA Engineer
 - Meghan Mueller-Cox - Release Manager
 - Jenna Hildebrand - QA Engineer
 - Panel Moderator: [Caterina Paun](https://twitter.com/caterinasworld) - Director, Women Who Code Portland
 
-#### March 5 - Networking Night @ Jaguar Land Rover - "Open Software Technology Center Tech Talks"
+#### Mar. 5 - Networking Night @ Jaguar Land Rover - "Open Software Technology Center Tech Talks"
 - [Art McGee](https://www.linkedin.com/in/kingartjr) - Senior Software Engineer, Jaguar Land Rover
 - [Magnus Feuer](https://www.linkedin.com/in/magnusfeuer) - System Architect, Open Software Initiative, Jaguar Land Rover
 - [Chris Anderson](https://twitter.com/jchris) - Co-Founder and Mobile Architect, Couchbase
