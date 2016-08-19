@@ -1,12 +1,7 @@
 # Networking Nights
 A monthly meetup to hear women speak about technology, make new connections, and help build a community of technical women in Portland.
 
-## Goals
 
-- provide an opportunity for engineers and technical women to speak about technology
-- learn about new technologies
-- make new connections
-- create a community of women who code and women learning to code in Portland
 
 ## Companies Who Have Hosted Us
 
@@ -41,6 +36,7 @@ A monthly meetup to hear women speak about technology, make new connections, and
 - Panel (45 minute panel)
 - Workshop (45-90 minute workshop)
 - Around the World (split attendees in three to four different rooms for presentations, 10-15 minutes in each room, then the groups switch rooms)
+
 
 ## Our Schedule
 
