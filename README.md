@@ -1,7 +1,12 @@
 # Networking Nights
 A monthly meetup to hear women speak about technology, make new connections, and help build a community of technical women in Portland.
 
+## Format
 
+- Lightning Talks (shorter tech talks, 5-10 minutes each)
+- Panel (45 minute panel)
+- Workshop (45-90 minute workshop)
+- Around the World (split attendees in three to four different rooms for presentations, 10-15 minutes in each room, then the groups switch rooms)
 
 ## Companies Who Have Hosted Us
 
@@ -30,13 +35,12 @@ A monthly meetup to hear women speak about technology, make new connections, and
 <img height=100 src="logos/logo-treehouse.png" title="Treehouse">
 <img height=100 src="logos/logo-newrelic.png" title="New Relic">
 
-## Format
-
-- Lightning Talks (shorter tech talks, 5-10 minutes each)
-- Panel (45 minute panel)
-- Workshop (45-90 minute workshop)
-- Around the World (split attendees in three to four different rooms for presentations, 10-15 minutes in each room, then the groups switch rooms)
-
+## Goals
+  
+- provide an opportunity for engineers and technical women to speak about technology
+- learn about new technologies
+- make new connections
+- create a community of women who code and women learning to code in Portland
 
 ## Our Schedule
 
