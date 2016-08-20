@@ -74,8 +74,9 @@ A monthly meetup to hear women speak about technology, make new connections, and
 - July 14 - [WeWork + Salesforce / Women+Tech Summer Soiree](http://www.meetup.com/Women-Who-Code-Portland/events/231401151/) - "How Oregon Funds Innovation"
 - Aug. 10 - [Code Fellows PDX](http://www.meetup.com/Women-Who-Code-Portland/events/232784915/) - "A Journey of a Female Coder"
 - Aug. 16 - [R/West](http://www.meetup.com/Women-Who-Code-Portland/events/231403787/) - "Women in Leadership"
-- Sept. 7 - Treehouse
-- Oct. 3 - New Relic
+- Sept. 7 - [Treehouse](http://www.meetup.com/Women-Who-Code-Portland/events/233479741/) - "Getting Started With Programming Languages"
+- Oct. 3 - New Relic - Resolution Fest
+- Dec. - Women+Tech Holiday Party
 
 ## Speakers
 
