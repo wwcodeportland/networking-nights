@@ -99,26 +99,25 @@
 - Panel Moderator: [Caterina Paun](https://twitter.com/caterinasworld) - Director, Women Who Code Portland
 
 #### Aug. 4 - Networking Night @ Jama Software "Lessons Learned in the Tech Industry"
-- Hang Dao – QA Engineer
-- Kristina King – Support Community Manager
-- Robin Calhoun – Product Manager
-- Laura Andrews – Visual Interaction Designer
-- Jess Stetson — Solutions Architect
+- [Hang Dao](https://www.linkedin.com/in/htdao) – QA Engineer
+- [Kristina King](https://www.linkedin.com/in/kingkristina) – Support Community Manager
+- [Robin Calhoun](https://www.linkedin.com/in/robin-calhoun-1aa35662) – Product Manager
+- [Laura Andrews](https://www.linkedin.com/in/laura-andrews-36b09012) – Visual Interaction Designer
+- [Jess Stetson](https://twitter.com/jessispondering) — Solutions Architect
 - Panel Moderator: [Caterina Paun](https://twitter.com/caterinasworld) - Director, Women Who Code Portland
 
 #### July 28 - Networking Night @ AppNexus - "Around the Stack"
-- "Topic #1: Front-end Development" - Esha Peddireddy, Software Engineer, and Alison Stump, UI/UX Prototyper
-- "Topic #2: Data Science" - Becca Conneely, Data Scientist, and Stephanie Tzeng, Data Scientist
-- "Topic #3: Technical Internships" - Nerissa Lemon, Technical Intern, and Katie Hughes, Technical Intern
-- Allison Krug - Technical Recruiter
+- "Topic #1: Front-end Development" - [Esha Peddireddy](https://www.linkedin.com/in/esha-peddireddy-40988631), Software Engineer, and [Alison Stump](https://www.linkedin.com/in/alisonstump), UI/UX Prototyper
+- "Topic #2: Data Science" - [Becca Conneely](https://www.linkedin.com/in/rebecca-conneely-30b12254), Data Scientist, and [Stephanie Tzeng](https://www.linkedin.com/in/stephanie-tzeng-96584a9), Data Scientist
+- "Topic #3: Technical Internships" - [Nerissa Lemon](https://www.linkedin.com/in/nerissalemon), Technical Intern, and [Katie Hughes](https://www.linkedin.com/in/katelhughes93), Technical Intern
+- [Allison Krug](https://www.linkedin.com/in/allisonappnexus) - Technical Recruiter
 
 #### June 8 - Networking Night @ New Relic - "Future Talks"
-- Alice Goldfuss - Site Reliability Engineer - "Docker in a Flash"
-- Ashley Puls - Senior Software Engineer - "Why, When, and How to Measure Performance"
-- Kate Morrow - Engineering Manager - "Programming for Humans: API Design as User Experience Design"
-- Katherine Wu - Software Developer - "Jelly Bean Trails and Middle-Points"
-- Emily Hyland - Senior Software Engineer - "Moving from ActiveRecord to a Service"
-- Katie Leonard, Software Developer, and Zoe Kay, Software Engineer - "Upgrading Rails"
+- [Alice Goldfuss](https://twitter.com/alicegoldfuss) - Site Reliability Engineer - "Docker in a Flash"
+- [Ashley Puls](https://twitter.com/ashley_puls) - Senior Software Engineer - "Why, When, and How to Measure Performance"
+- [Katherine Wu](https://twitter.com/kwugirl) - Software Developer - "Jelly Bean Trails and Middle-Points"
+- [Emily Hyland](https://twitter.com/duien) - Senior Software Engineer - "Programming for Humans: API Design as User Experience Design"
+- [Katie Leonard](https://twitter.com/keightyleonard), Software Developer, and [Zoe Kay](https://twitter.com/zoevkay), Software Engineer - "Upgrading Rails"
 - Emcee - [Liz Abinante](https://twitter.com/feministy) - Senior Software Engineer, New Relic
 
 #### May 14 - Networking Night @ CrowdCompass - "Building Products"
