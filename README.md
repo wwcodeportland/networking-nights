@@ -24,7 +24,7 @@ A monthly meetup to hear women speak about technology, make new connections, and
 <img height=100 src="logos/logo-airbnb.png" title="Airbnb">
 <img height=100 src="logos/logo-metaltoad.jpg" title="Metal Toad">
 <img height=100 src="logos/logo-intel.png" title="Intel">
-<img height=100 src="logos/logo-newtechpdx.png" title="New Tech PDX">
+<img height=100 src="logos/logo-newtechpdx.jpg" title="New Tech PDX">
 <img height=100 src="logos/logo-mozilla.jpg" title="Mozilla">
 <img height=100 src="logos/logo-instrument.png" title="Instrument">
 <img height=100 src="logos/logo-newrelic.png" title="New Relic">
@@ -34,6 +34,10 @@ A monthly meetup to hear women speak about technology, make new connections, and
 <img height=100 src="logos/logo-rwest.png" title="R/West">
 <img height=100 src="logos/logo-treehouse.png" title="Treehouse">
 <img height=100 src="logos/logo-newrelic.png" title="New Relic">
+<img height=100 src="logos/logo-wsuv.png" title="WSU Vancouver">
+<img height=100 src="logos/logo-citizen.png" title="Citizen">
+<img height=100 src="logos/logo-simple.png" title="Simple">
+<img height=100 src="logos/logo-vacasa.png" title="Vacasa">
 
 ## Goals
   
@@ -77,6 +81,14 @@ A monthly meetup to hear women speak about technology, make new connections, and
 - Sept. 7 - [Treehouse](http://www.meetup.com/Women-Who-Code-Portland/events/233479741/) - "Getting Started With Programming Languages"
 - Oct. 3 - New Relic - Resolution Fest
 - Dec. - Women+Tech Holiday Party
+
+2017
+
+- Jan. - WSU Vancouver CMCD - "AR + VR"
+- Feb. - Citizen
+- March 8 - Simple
+- April 4 - Vacasa
+- June - New Relic
 
 ## Speakers
 
