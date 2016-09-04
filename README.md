@@ -24,7 +24,7 @@ A monthly meetup to hear women speak about technology, make new connections, and
 <img height=100 src="logos/logo-airbnb.png" title="Airbnb">
 <img height=100 src="logos/logo-metaltoad.jpg" title="Metal Toad">
 <img height=100 src="logos/logo-intel.png" title="Intel">
-<img height=100 src="logos/logo-newtechpdx.jpg" title="New Tech PDX">
+<img height=100 src="logos/logo-newtechpdx.png" title="New Tech PDX">
 <img height=100 src="logos/logo-mozilla.jpg" title="Mozilla">
 <img height=100 src="logos/logo-instrument.png" title="Instrument">
 <img height=100 src="logos/logo-newrelic.png" title="New Relic">
