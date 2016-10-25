@@ -84,11 +84,11 @@ A monthly meetup to hear women speak about technology, make new connections, and
 
 2017
 
-- Jan. - WSU Vancouver CMCD - "AR + VR"
-- Feb. - Citizen
-- March 8 - Simple
+- Jan. 28 - WSU Vancouver CMCD - "AR + VR"
+- Feb. 7 - Citizen - "Scrum"
+- March 8 - Simple - "International Women's Day"
 - April 4 - Vacasa
-- June - New Relic
+- June 12 - New Relic - "3rd Anniversary Celebration"
 
 ## Speakers
 
