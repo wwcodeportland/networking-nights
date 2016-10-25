@@ -1,5 +1,13 @@
 ## Past Speakers
 
+#### Oct. 3 - Networking Night @ New Relic - "Resolution Fest Lighting Talks"
+- April Leonard, Software Engineer - "A Java Ecosystem Primer"
+- Belinda Runkle, VP, Engineering - "New Relic, D&I, and Community"
+- Caito Scherr, Software Engineer - "Starting Backwards"
+- Erika Arnold, Software Engineer - "Docker for devs: Developing and testing with Docker Compose"
+- Maureen Dugan, Software Engineer - "Pairing & Mobbing"
+- Ashley Puls, Software Engineer - "Don’t Let Cognitive Bias Hinder Your Innovation" 
+
 #### Aug. 16 - Networking Night @ R/West - "Women in Leadership"
 - [Jenny Moede](https://www.linkedin.com/in/jennymoede) - CEO, Citizen Inc.
 - [Kimberly Barta](https://www.linkedin.com/in/kbarta) - Global Marketing Director, SOREL
