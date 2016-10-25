@@ -79,8 +79,8 @@ A monthly meetup to hear women speak about technology, make new connections, and
 - Aug. 10 - [Code Fellows PDX](http://www.meetup.com/Women-Who-Code-Portland/events/232784915/) - "A Journey of a Female Coder"
 - Aug. 16 - [R/West](http://www.meetup.com/Women-Who-Code-Portland/events/231403787/) - "Women in Leadership"
 - Sept. 7 - [Treehouse](http://www.meetup.com/Women-Who-Code-Portland/events/233479741/) - "Getting Started With Programming Languages"
-- Oct. 3 - New Relic - Resolution Fest
-- Dec. - Women+Tech Holiday Party
+- Oct. 3 - [New Relic](https://www.meetup.com/Women-Who-Code-Portland/events/234156803/) - Resolution Fest
+- Dec. 15 - Women+Tech Holiday Party
 
 2017
 
@@ -88,7 +88,9 @@ A monthly meetup to hear women speak about technology, make new connections, and
 - Feb. 7 - Citizen - "Scrum"
 - March 8 - Simple - "International Women's Day"
 - April 4 - Vacasa
+- May - Second Story
 - June 12 - New Relic - "3rd Anniversary Celebration"
+- July 13 - Wieden + Kennedy
 
 ## Speakers
 
