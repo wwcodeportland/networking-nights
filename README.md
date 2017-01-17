@@ -10,34 +10,34 @@ A monthly meetup to hear women speak about technology, make new connections, and
 
 ## Companies Who Have Hosted Us
 
-<img height=100 src="logos/logo-jlr.png" title="Jaguar Land Rover">
-<img height=100 src="logos/logo-elemental.png" title="Elemental Technologies">
-<img height=100 src="logos/logo-crowdcompass.png" title="Crowd Compass">
-<img height=100 src="logos/logo-newrelic.png" title="New Relic">
-<img height=100 src="logos/logo-appnexus.png" title="Appnexus">
-<img height=100 src="logos/logo-jama.png" title="Jama">
-<img height=100 src="logos/logo-urbanairship.png" title="Urban Airship">
-<img height=100 src="logos/logo-quickleft.png" title="Quick Left">
-<img height=100 src="logos/logo-ebay.png" title="eBay">
-<img height=100 src="logos/logo-nike.png" title="Nike">
-<img height=100 src="logos/logo-puppet.png" title="Puppet Labs">
-<img height=100 src="logos/logo-airbnb.png" title="Airbnb">
-<img height=100 src="logos/logo-metaltoad.jpg" title="Metal Toad">
-<img height=100 src="logos/logo-intel.png" title="Intel">
-<img height=100 src="logos/logo-newtechpdx.png" title="New Tech PDX">
-<img height=100 src="logos/logo-mozilla.jpg" title="Mozilla">
-<img height=100 src="logos/logo-instrument.png" title="Instrument">
-<img height=100 src="logos/logo-newrelic.png" title="New Relic">
-<img height=100 src="logos/logo-wework.png" title="WeWork">
-<img height=100 src="logos/logo-salesforce.png" title="Salesforce">
-<img height=100 src="logos/logo-codefellows.png" title="Code Fellows">
-<img height=100 src="logos/logo-rwest.png" title="R/West">
-<img height=100 src="logos/logo-treehouse.png" title="Treehouse">
-<img height=100 src="logos/logo-newrelic.png" title="New Relic">
-<img height=100 src="logos/logo-wsuv.png" title="WSU Vancouver">
-<img height=100 src="logos/logo-citizen.png" title="Citizen">
-<img height=100 src="logos/logo-simple.png" title="Simple">
-<img height=100 src="logos/logo-vacasa.png" title="Vacasa">
+<img height=80 src="logos/logo-jlr.png" title="Jaguar Land Rover">
+<img height=80 src="logos/logo-elemental.png" title="Elemental Technologies">
+<img height=80 src="logos/logo-crowdcompass.png" title="Crowd Compass">
+<img height=80 src="logos/logo-newrelic.png" title="New Relic">
+<img height=80 src="logos/logo-appnexus.png" title="Appnexus">
+<img height=80 src="logos/logo-jama.png" title="Jama">
+<img height=80 src="logos/logo-urbanairship.png" title="Urban Airship">
+<img height=80 src="logos/logo-quickleft.png" title="Quick Left">
+<img height=80 src="logos/logo-ebay.png" title="eBay">
+<img height=80 src="logos/logo-nike.png" title="Nike">
+<img height=80 src="logos/logo-puppet.png" title="Puppet Labs">
+<img height=80 src="logos/logo-airbnb.png" title="Airbnb">
+<img height=80 src="logos/logo-metaltoad.jpg" title="Metal Toad">
+<img height=80 src="logos/logo-intel.png" title="Intel">
+<img height=80 src="logos/logo-newtechpdx.png" title="New Tech PDX">
+<img height=80 src="logos/logo-mozilla.jpg" title="Mozilla">
+<img height=80 src="logos/logo-instrument.png" title="Instrument">
+<img height=80 src="logos/logo-newrelic.png" title="New Relic">
+<img height=80 src="logos/logo-wework.png" title="WeWork">
+<img height=80 src="logos/logo-salesforce.png" title="Salesforce">
+<img height=80 src="logos/logo-codefellows.png" title="Code Fellows">
+<img height=80 src="logos/logo-rwest.png" title="R/West">
+<img height=80 src="logos/logo-treehouse.png" title="Treehouse">
+<img height=80 src="logos/logo-newrelic.png" title="New Relic">
+<img height=80 src="logos/logo-wsuv.png" title="WSU Vancouver">
+<img height=80 src="logos/logo-citizen.png" title="Citizen">
+<img height=80 src="logos/logo-simple.png" title="Simple">
+<img height=80 src="logos/logo-vacasa.png" title="Vacasa">
 
 ## Goals
   
