@@ -8,7 +8,7 @@ A monthly meetup to hear women speak about technology, make new connections, and
 - Workshop (45-90 minute workshop)
 - Around the World (split attendees in three to four different rooms for presentations, 10-15 minutes in each room, then the groups switch rooms)
 
-## Companies Who Have Hosted Us
+## Companies Who Have Hosted or Partnered With Us
 
 <img height=80 src="logos/logo-jlr.png" title="Jaguar Land Rover">
 <img height=80 src="logos/logo-elemental.png" title="Elemental Technologies">
