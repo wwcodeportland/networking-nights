@@ -84,17 +84,17 @@ A monthly meetup to hear women speak about technology, make new connections, and
 
 2017
 
-- Jan. 28 - [WSU Vancouver](https://www.meetup.com/Women-Who-Code-Portland/events/236509845/) - "AR + VR"
+- Jan. 28 - [WSU Vancouver](https://www.meetup.com/Women-Who-Code-Portland/events/236509845/) - "AR + VR Project Showcases"
 - Feb. 7 - [+Citizen](https://www.meetup.com/Women-Who-Code-Portland/events/236509936/) - "Scrum IRL"
-- March 8 - [Simple](https://www.meetup.com/Women-Who-Code-Portland/events/236510010/) - "International Womens Day"
+- March 8 - [Simple](https://www.meetup.com/Women-Who-Code-Portland/events/236510010/) - "International Women's Day"
 - April 4 - [Vacasa](https://www.meetup.com/Women-Who-Code-Portland/events/236510111/)
 - May 11 - [Second Story](https://www.meetup.com/Women-Who-Code-Portland/events/236510126/)
-- June 12 - [New Relic](https://www.meetup.com/Women-Who-Code-Portland/events/236510149/) - "3rd Anniversary Celebration"
+- June 12 - [New Relic + InVision](https://www.meetup.com/Women-Who-Code-Portland/events/236510149/) - "3rd Anniversary Celebration"
 - July 13 - [Wieden + Kennedy](https://www.meetup.com/Women-Who-Code-Portland/events/236510268/)
 - Aug. 9 - Vernier
-- Aug. - Jive
+- Aug. 24 - Jive
 - Sept. - AKQA
-- Oct. - PSU Business Accelerator
+- Oct. 12 - PSU Business Accelerator
 - Dec. - Women+Tech Holiday Party
 
 ## Speakers
