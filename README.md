@@ -1,43 +1,43 @@
 # Networking Nights
-A monthly meetup to hear women speak about technology, make new connections, and help build a community of technical women in Portland.
+A monthly meetup to hear women speak about technology, make new connections, and help us build a community of technical women in Portland.
 
 ## Format
 
-- Lightning Talks (shorter tech talks, 5-10 minutes each)
+- Lightning Talks (shorter tech talks, 8-10 minutes each)
 - Panel (45 minute panel)
 - Workshop (45-90 minute workshop)
 - Around the World (split attendees in three to four different rooms for presentations, 10-15 minutes in each room, then the groups switch rooms)
 
-## Companies Who Have Hosted or Partnered With Us
+## Our Hosts or Partners
 
-<img height=80 src="logos/logo-jlr.png" title="Jaguar Land Rover">
-<img height=80 src="logos/logo-elemental.png" title="Elemental Technologies">
-<img height=80 src="logos/logo-crowdcompass.png" title="Crowd Compass">
-<img height=80 src="logos/logo-newrelic.png" title="New Relic">
-<img height=80 src="logos/logo-appnexus.png" title="Appnexus">
-<img height=80 src="logos/logo-jama.png" title="Jama">
-<img height=80 src="logos/logo-urbanairship.png" title="Urban Airship">
-<img height=80 src="logos/logo-quickleft.png" title="Quick Left">
-<img height=80 src="logos/logo-ebay.png" title="eBay">
-<img height=80 src="logos/logo-nike.png" title="Nike">
-<img height=80 src="logos/logo-puppet.png" title="Puppet Labs">
-<img height=80 src="logos/logo-airbnb.png" title="Airbnb">
-<img height=80 src="logos/logo-metaltoad.jpg" title="Metal Toad">
-<img height=80 src="logos/logo-intel.png" title="Intel">
-<img height=80 src="logos/logo-newtechpdx.png" title="New Tech PDX">
-<img height=80 src="logos/logo-mozilla.jpg" title="Mozilla">
-<img height=80 src="logos/logo-instrument.png" title="Instrument">
-<img height=80 src="logos/logo-newrelic.png" title="New Relic">
-<img height=80 src="logos/logo-wework.png" title="WeWork">
-<img height=80 src="logos/logo-salesforce.png" title="Salesforce">
-<img height=80 src="logos/logo-codefellows.png" title="Code Fellows">
-<img height=80 src="logos/logo-rwest.png" title="R/West">
-<img height=80 src="logos/logo-treehouse.png" title="Treehouse">
-<img height=80 src="logos/logo-newrelic.png" title="New Relic">
-<img height=80 src="logos/logo-wsuv.png" title="WSU Vancouver">
-<img height=80 src="logos/logo-citizen.png" title="Citizen">
-<img height=80 src="logos/logo-simple.png" title="Simple">
-<img height=80 src="logos/logo-vacasa.png" title="Vacasa">
+<img height=50 src="logos/logo-jlr.png" title="Jaguar Land Rover">
+<img height=50 src="logos/logo-elemental.png" title="Elemental Technologies">
+<img height=50 src="logos/logo-crowdcompass.png" title="Crowd Compass">
+<img height=50 src="logos/logo-newrelic.png" title="New Relic">
+<img height=50 src="logos/logo-appnexus.png" title="Appnexus">
+<img height=50 src="logos/logo-jama.png" title="Jama">
+<img height=50 src="logos/logo-urbanairship.png" title="Urban Airship">
+<img height=50 src="logos/logo-quickleft.png" title="Quick Left">
+<img height=50 src="logos/logo-ebay.png" title="eBay">
+<img height=50 src="logos/logo-nike.png" title="Nike">
+<img height=50 src="logos/logo-puppet.png" title="Puppet Labs">
+<img height=50 src="logos/logo-airbnb.png" title="Airbnb">
+<img height=50 src="logos/logo-metaltoad.jpg" title="Metal Toad">
+<img height=50 src="logos/logo-intel.png" title="Intel">
+<img height=50 src="logos/logo-newtechpdx.png" title="New Tech PDX">
+<img height=50 src="logos/logo-mozilla.jpg" title="Mozilla">
+<img height=50 src="logos/logo-instrument.png" title="Instrument">
+<img height=50 src="logos/logo-newrelic.png" title="New Relic">
+<img height=50 src="logos/logo-wework.png" title="WeWork">
+<img height=50 src="logos/logo-salesforce.png" title="Salesforce">
+<img height=50 src="logos/logo-codefellows.png" title="Code Fellows">
+<img height=50 src="logos/logo-rwest.png" title="R/West">
+<img height=50 src="logos/logo-treehouse.png" title="Treehouse">
+<img height=50 src="logos/logo-newrelic.png" title="New Relic">
+<img height=50 src="logos/logo-wsuv.png" title="WSU Vancouver">
+<img height=50 src="logos/logo-citizen.png" title="Citizen">
+<img height=50 src="logos/logo-simple.png" title="Simple">
+<img height=50 src="logos/logo-vacasa.png" title="Vacasa">
 
 ## Goals
   
@@ -48,8 +48,9 @@ A monthly meetup to hear women speak about technology, make new connections, and
 
 ## Our Schedule
 
-<img height=300 src="graphics/networking-nights-2015-schedule.jpg" title="2015 Networking Nights">
-<img height=300 src="graphics/networking-nights-2016-schedule.jpg" title="2016 Networking Nights">
+<img height=300 src="graphics/networking-nights-2015.png" title="2015 Networking Nights">
+<img height=300 src="graphics/networking-nights-2016.png" title="2016 Networking Nights">
+<img height=300 src="graphics/networking-nights-2017.png" title="2017 Networking Nights">
 
 ## Event Themes
 
@@ -101,6 +102,8 @@ A monthly meetup to hear women speak about technology, make new connections, and
 
 See a full list of [past speakers](past-speakers.md).
 
+## Promos
+
 <img height=180 src="graphics/wwcpdx-1-jaguarlandrover.jpg" title="Jaguar Land Rover">
 <img height=180 src="graphics/wwcpdx-2-elemental.jpg" title="Elemental">
 <img height=180 src="graphics/wwcpdx-3-crowdcompass.jpg" title="CrowdCompass">
@@ -128,3 +131,5 @@ See a full list of [past speakers](past-speakers.md).
 
 - Have questions? Want to host us? Visit our [FAQ](faqs.md) page.
 - This [to-do list](event-planning/event-to-do.md) is our checklist for event planning.
+
+
