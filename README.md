@@ -34,10 +34,19 @@ A monthly meetup to hear women speak about technology, make new connections, and
 <img height=50 src="logos/logo-rwest.png" title="R/West">
 <img height=50 src="logos/logo-treehouse.png" title="Treehouse">
 <img height=50 src="logos/logo-newrelic.png" title="New Relic">
+<img height=50 src="logos/logo-marketo.png" title="Marketo">
 <img height=50 src="logos/logo-wsuv.png" title="WSU Vancouver">
 <img height=50 src="logos/logo-citizen.png" title="Citizen">
 <img height=50 src="logos/logo-simple.png" title="Simple">
 <img height=50 src="logos/logo-vacasa.png" title="Vacasa">
+<img height=50 src="logos/logo-second-story.png" title="Second Story">
+<img height=50 src="logos/logo-invision.png" title="InVision">
+<img height=50 src="logos/logo-newrelic.png" title="New Relic">
+<img height=50 src="logos/logo-wk.png" title="Wieden + Kennedy">
+<img height=50 src="logos/logo-vernier.png" title="Vernier">
+<img height=50 src="logos/logo-jive.png" title="Jive">
+<img height=50 src="logos/logo-akqa.png" title="AKQA">
+<img height=50 src="logos/logo-psu-biz.png" title="PSU Business Accelerator">
 
 ## Goals
   
