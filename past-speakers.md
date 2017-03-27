@@ -1,5 +1,39 @@
 ## Past Speakers
 
+### 2017
+
+#### May 11 - Networking Night @ Second Story 
+
+#### Apr. 4 - Networking Night @ Vacasa 
+
+#### Mar. 8 - Networking Night @ Simple - "Strength in Numbers - Women Supporting Women in Tech"
+- Bess Fernandez - Front End Engineer
+- Fei Guo - User Research
+- Honey Darling - Senior Manager, Backend Engineer
+- Stefanie Hatcher - Front End Engineer
+- Margaret Adams - Front End Engineer
+- Moderator: Jill Jubinski - Technical Community Manager
+
+#### Feb. 7 - Networking Night @ +Citizen - "Scrum IRL"
+- Kate Gordon-Bloomfield - Technical PM, +Citizen 
+- Jessica Siu - Scrum Master, Nike
+- Malathi (Malu) Parthasarathy - Lead QA Engineer, Jet Reports
+- Winnie Baker - Scrum Master, Renew Financial
+
+#### Jan. 28 - Networking Night @ WSU Vancouver - "AR + VR Project Showcases"
+- [BioLabVR](http://dtc-wsuv.org/wp/biolabvr/)
+- [Kaegi Virtual Pharmacy](http://dtc-wsuv.org/projects/kaegi-gig/index.html)
+- [T1VR](http://dtc-wsuv.org/projects/credc-vr/)
+- [Life Renewed](http://dtc-wsuv.org/projects/life-renewed/)
+- [MyBrain](http://www.brittanywouden.com/#/portfolio/mybrain/)
+
+### 2016
+
+#### Dec. 15 - Women + Tech Holiday Party - "Virtual Reality in Reality!"
+- [Leah Siddall](https://www.linkedin.com/in/leahsiddall/), Elemental/Amazon Web Services - "The Challenges of Streaming Live VR Video"
+- [Stephanie Mendoza](https://liooil.space/), Portland Immersive Media Group & CTRL-H - "Hyperreal Cognition"
+- [Danielle Delph](http://www.danielledelph.com/), Wieden + Kennedy - "Using VR for the Greater Good"
+
 #### Oct. 3 - Networking Night @ New Relic - "Resolution Fest Lighting Talks"
 - April Leonard, Software Engineer - "A Java Ecosystem Primer"
 - Belinda Runkle, VP, Engineering - "New Relic, D&I, and Community"
