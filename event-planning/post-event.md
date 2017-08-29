@@ -1,11 +1,11 @@
 ## Post-Event To Do
 
 1. Thank you email to organizer(s).
-2. Upload photos to meetup.
+2. Upload photos to Meetup.
 3. Twitter: 
     * tweet 3-4 photos + thank hosts
-    * tweet names of presenters + thanks
-    * tweet link to photos on meetup
+    * tweet names of presenters + thanks (optional)
+    * tweet link to photos on Meetup (optional)
 4. Post-Event email to attendees with upcoming events.  
 5. Write and send thank you notes to organizer(s) and presenter(s).
 7. Schedule post-mortem with organizer(s)
