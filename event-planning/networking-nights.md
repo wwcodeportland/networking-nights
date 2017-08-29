@@ -4,9 +4,9 @@
 
 #### Sep. 26 - Amazon + AWS Elemental
 
-#### Aug. 17 - [Cambia Health Solutions / Women + Tech Summer Soiree] (https://www.meetup.com/Women-Who-Code-Portland/events/240796899/)
+#### Aug. 17 - [Cambia Health Solutions / Women + Tech Summer Soiree](https://www.meetup.com/Women-Who-Code-Portland/events/240796899/)
 
-#### Aug. 10 - [Vernier] (https://www.meetup.com/Women-Who-Code-Portland/events/242178018/) - What Does It Mean to “Do What You Love?”
+#### Aug. 10 - [Vernier](https://www.meetup.com/Women-Who-Code-Portland/events/242178018/) - What Does It Mean to “Do What You Love?”
 
 #### July 13 - [Wieden + Kennedy](https://www.meetup.com/Women-Who-Code-Portland/events/236510268/) - Intro to VR & Wearable Tech 
 
