@@ -36,7 +36,7 @@ A monthly meetup to hear women speak about technology, make new connections, and
 <img height=60 src="logos/logo-newrelic.png" title="New Relic">
 <img height=60 src="logos/logo-marketo.png" title="Marketo">
 <img height=60 src="logos/logo-wsuv.png" title="WSU Vancouver">
-<img height=60 src="logos/logo-citizen.png" title="Citizen">
+<img height=60 src="logos/logo-citizen.png" title="+Citizen">
 <img height=60 src="logos/logo-simple.png" title="Simple">
 <img height=60 src="logos/logo-vacasa.png" title="Vacasa">
 <img height=60 src="logos/logo-second-story.png" title="Second Story">
@@ -44,9 +44,7 @@ A monthly meetup to hear women speak about technology, make new connections, and
 <img height=60 src="logos/logo-newrelic.png" title="New Relic">
 <img height=60 src="logos/logo-wk.png" title="Wieden + Kennedy">
 <img height=60 src="logos/logo-vernier.png" title="Vernier">
-<img height=60 src="logos/logo-jive.png" title="Jive">
 <img height=60 src="logos/logo-akqa.png" title="AKQA">
-<img height=60 src="logos/logo-psu-biz.png" title="PSU Business Accelerator">
 
 ## Goals
   
@@ -97,14 +95,14 @@ A monthly meetup to hear women speak about technology, make new connections, and
 - Jan. 28 - [WSU Vancouver](https://www.meetup.com/Women-Who-Code-Portland/events/236509845/) - "AR + VR Project Showcases"
 - Feb. 7 - [+Citizen](https://www.meetup.com/Women-Who-Code-Portland/events/236509936/) - "Scrum IRL"
 - March 8 - [Simple](https://www.meetup.com/Women-Who-Code-Portland/events/236510010/) - "International Women's Day"
-- April 4 - [Vacasa](https://www.meetup.com/Women-Who-Code-Portland/events/236510111/)
-- May 11 - [Second Story](https://www.meetup.com/Women-Who-Code-Portland/events/236510126/)
-- June 12 - [New Relic + InVision](https://www.meetup.com/Women-Who-Code-Portland/events/236510149/) - "3rd Anniversary Celebration"
-- July 13 - [Wieden + Kennedy](https://www.meetup.com/Women-Who-Code-Portland/events/236510268/)
-- Aug. 9 - Vernier
-- Aug. 24 - Jive
-- Sept. - AKQA
-- Oct. 12 - PSU Business Accelerator
+- April 4 - [Vacasa](https://www.meetup.com/Women-Who-Code-Portland/events/236510111/) - Transitioning the Stack: the Role of Women in a High-Growth Tech Organization.  
+- May 11 - [Second Story](https://www.meetup.com/Women-Who-Code-Portland/events/236510126/) - Make It Happen: Improvising, Collaborating, Prototyping
+- June 12 - [New Relic + InVision](https://www.meetup.com/Women-Who-Code-Portland/events/236510149/) - 3rd Anniversary Celebration - Women in Engineering Leadership
+- July 13 - [Wieden + Kennedy](https://www.meetup.com/Women-Who-Code-Portland/events/236510268/) - Intro to VR & Wearable Tech 
+- Aug. 10 - Vernier
+- Sept. 26 - Amazon + AWS Elemental
+- Oct. - AKQA
+- Nov. - CDK Global with ChickTech
 - Dec. - Women+Tech Holiday Party
 
 ## Speakers
