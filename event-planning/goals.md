@@ -1,4 +1,4 @@
-##Main Goals for Every Meetup
+## Main Goals for Every Meetup
 
 1. Greet every person to Women Who Code
 2. Make sure everyone feels included
