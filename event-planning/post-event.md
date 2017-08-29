@@ -1,4 +1,4 @@
-##Post-Event To Do
+## Post-Event To Do
 
 1. Thank you email to organizer(s).
 2. Upload photos to meetup.
