@@ -1,5 +1,29 @@
 ## 2016 Networking Nights:
 
+#### Oct. - AKQA
+
+#### Oct. - Amazon + AWS Elemental
+
+#### Aug. 17 - Women + Tech Summer Soiree, hosted by Cambia Health Solutions
+
+#### Aug. 10 - Vernier
+
+#### July 13 - [Wieden + Kennedy](https://www.meetup.com/Women-Who-Code-Portland/events/236510268/) - Intro to VR & Wearable Tech 
+
+#### June 12 - [New Relic + InVision](https://www.meetup.com/Women-Who-Code-Portland/events/236510149/) - "3rd Anniversary Celebration"
+
+#### May 11 - [Second Story](https://www.meetup.com/Women-Who-Code-Portland/events/236510126/) - Make It Happen: Improvising, Collaborating, Prototyping
+
+#### April 4 - [Vacasa](https://www.meetup.com/Women-Who-Code-Portland/events/236510111/) - Transitioning the Stack: the Role of Women in a High-Growth Tech Organization
+
+#### March 8 - [Simple](https://www.meetup.com/Women-Who-Code-Portland/events/236510010/) - "International Women's Day"
+
+#### Feb. 7 - [+Citizen](https://www.meetup.com/Women-Who-Code-Portland/events/236509936/) - "Scrum IRL"
+
+#### Jan. 28 - [WSU Vancouver](https://www.meetup.com/Women-Who-Code-Portland/events/236509845/) - "AR + VR Project Showcases"
+
+## 2016 Networking Nights:
+
 #### Aug. 16 - [R/West](http://www.meetup.com/Women-Who-Code-Portland/events/231403787/) - "Women in Leadership"
 
 #### Aug. 10 - [Code Fellows PDX](http://www.meetup.com/Women-Who-Code-Portland/events/232784915/) - "A Journey of a Female Coder"
