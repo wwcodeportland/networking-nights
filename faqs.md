@@ -1,4 +1,4 @@
-##FAQs
+## FAQs
 
 #### What is the Networking Night series?
 Our Networking Night is a monthly event for our members to get together, learn something new from great speakers, and get to know a new tech company in Portland. We want to build a community of technical women in Portland and we hope you will help us in that endeavor.
@@ -7,7 +7,7 @@ Our Networking Night is a monthly event for our members to get together, learn s
 You decide. We have had one every night of the week. The time frame is typically 6-9 PM, but some companies have requested to start at 5 or 5:30 PM and some companies prefer to end the event by 8 PM.
 
 #### How many people attend?
-It depends. One of our earliest events had 30 attendees. Our **Networking Night + 2nd Anniversary Party** had 157 attendees and we checked in 303 people for the **Women+Tech Summer Soiree***. Depending on the capacity of the space, we can cap attendees for the event. Typically, we plan the event for 50-60 people.
+It depends. One of our earliest events had 30 attendees. Our **Networking Night + 3rd Anniversary Party** had 206 attendees and we checked in 303 people for the **Women+Tech Summer Soiree***. Depending on the capacity of the space, we can cap attendees for the event. Typically, we plan the event for 50-60 people.
 
 #### What does a hosting organization expected to provide?
 We would like our host to provide the location, food, speakers, and a theme. We can and have helped with finding speakers and coming up with a theme. Both the speakers and the theme should represent your company.
@@ -32,6 +32,6 @@ Email us at portland@womenwhocode.com.
 5. Pick a month. (Most often, we need a commitment several months in advance.)
 6. Pick a specific date.
 7. Find speakers.
-8. Let us know the names and twitter handles of the speakers at least 3 weeks in advance.
+8. Let us know the names and twitter handles https://github.com/wwcodeportland/networking-nights/blob/master/event-planning/post-event.md the speakers at least 3 weeks in advance.
 9. Event day!
 10. Post-mortem call the week after the event.
