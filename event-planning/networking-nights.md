@@ -2,7 +2,7 @@
 
 #### Oct. - AKQA
 
-#### Oct. - Amazon + AWS Elemental
+#### Sep. 26 - Amazon + AWS Elemental
 
 #### Aug. 17 - Women + Tech Summer Soiree, hosted by Cambia Health Solutions
 
