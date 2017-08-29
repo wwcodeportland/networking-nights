@@ -27,21 +27,17 @@ A monthly meetup to hear women speak about technology, make new connections, and
 <img height=60 src="logos/logo-newtechpdx.png" title="New Tech PDX">
 <img height=60 src="logos/logo-mozilla.jpg" title="Mozilla">
 <img height=60 src="logos/logo-instrument.png" title="Instrument">
-<img height=60 src="logos/logo-newrelic.png" title="New Relic">
 <img height=60 src="logos/logo-wework.png" title="WeWork">
 <img height=60 src="logos/logo-salesforce.png" title="Salesforce">
 <img height=60 src="logos/logo-codefellows.png" title="Code Fellows">
 <img height=60 src="logos/logo-rwest.png" title="R/West">
 <img height=60 src="logos/logo-treehouse.png" title="Treehouse">
-<img height=60 src="logos/logo-newrelic.png" title="New Relic">
-<img height=60 src="logos/logo-marketo.png" title="Marketo">
 <img height=60 src="logos/logo-wsuv.png" title="WSU Vancouver">
 <img height=60 src="logos/logo-citizen.png" title="+Citizen">
 <img height=60 src="logos/logo-simple.png" title="Simple">
 <img height=60 src="logos/logo-vacasa.png" title="Vacasa">
 <img height=60 src="logos/logo-second-story.png" title="Second Story">
 <img height=60 src="logos/logo-invision.png" title="InVision">
-<img height=60 src="logos/logo-newrelic.png" title="New Relic">
 <img height=60 src="logos/logo-wk.png" title="Wieden + Kennedy">
 <img height=60 src="logos/logo-vernier.png" title="Vernier">
 <img height=60 src="logos/logo-akqa.png" title="AKQA">
@@ -97,9 +93,9 @@ A monthly meetup to hear women speak about technology, make new connections, and
 - March 8 - [Simple](https://www.meetup.com/Women-Who-Code-Portland/events/236510010/) - "International Women's Day"
 - April 4 - [Vacasa](https://www.meetup.com/Women-Who-Code-Portland/events/236510111/) - Transitioning the Stack: the Role of Women in a High-Growth Tech Organization.  
 - May 11 - [Second Story](https://www.meetup.com/Women-Who-Code-Portland/events/236510126/) - Make It Happen: Improvising, Collaborating, Prototyping
-- June 12 - [New Relic + InVision](https://www.meetup.com/Women-Who-Code-Portland/events/236510149/) - 3rd Anniversary Celebration - Women in Engineering Leadership
+- June 12 - [New Relic + InVision + Nike + Hackbright Academy](https://www.meetup.com/Women-Who-Code-Portland/events/236510149/) - 3rd Anniversary Celebration - Women in Engineering Leadership
 - July 13 - [Wieden + Kennedy](https://www.meetup.com/Women-Who-Code-Portland/events/236510268/) - Intro to VR & Wearable Tech 
-- Aug. 10 - Vernier
+- Aug. 10 - [Vernier](https://www.meetup.com/Women-Who-Code-Portland/events/242178018/) - What Does It Mean to “Do What You Love?”
 - Sept. 26 - Amazon + AWS Elemental
 - Oct. - AKQA
 - Nov. - CDK Global with ChickTech
