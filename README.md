@@ -3,32 +3,18 @@ A monthly speakers series focused on having women speak about technology, give o
 
 ## Our Hosts or Partners
 
-<img height=60 src="logos/logo-jlr.png" alt="Jaguar Land Rover"> 
-<img height=60 src="logos/logo-elemental.png" alt="Elemental Technologies">
-<img height=60 src="logos/logo-crowdcompass.png" alt="Crowd Compass">
-<img height=60 src="logos/logo-newrelic.png" alt="New Relic">
-<img height=60 src="logos/logo-appnexus.png" alt="Appnexus">
-<img height=60 src="logos/logo-jama.png" alt="Jama">
-<img height=60 src="logos/logo-urbanairship.png" alt="Urban Airship">
-<img height=60 src="logos/logo-quickleft.png" alt="Quick Left">
-<img height=60 src="logos/logo-ebay.png" alt="eBay">
-<img height=60 src="logos/logo-nike.png" alt="Nike">
-<img height=60 src="logos/logo-puppet.png" alt="Puppet Labs">
-<img height=60 src="logos/logo-airbnb.png" alt="Airbnb">
-<img height=60 src="logos/logo-metaltoad.jpg" alt="Metal Toad">
-<img height=60 src="logos/logo-intel.png" alt="Intel">
-<img height=60 src="logos/logo-newtechpdx.png" alt="New Tech PDX">
-<img height=60 src="logos/logo-mozilla.jpg" alt="Mozilla">
-<img height=60 src="logos/logo-instrument.png" alt="Instrument">
-<img height=60 src="logos/logo-newrelic.png" alt="New Relic">
-<img height=60 src="logos/logo-wework.png" alt="WeWork">
-<img height=60 src="logos/logo-salesforce.png" alt="Salesforce">
-<img height=60 src="logos/logo-codefellows.png" alt="Code Fellows">
-<img height=60 src="logos/logo-rwest.png" alt="R/West">
-<img height=60 src="logos/logo-treehouse.png" alt="Treehouse">
-<img height=60 src="logos/logo-newrelic.png" alt="New Relic">
-<img height=60 src="logos/logo-marketo.png" alt="Marketo">
-<img height=60 src="logos/logo-newrelic.png" alt="New Relic">
+<img height=60 src="logos/logo-jlr.png" alt="Jaguar Land Rover"> <img height=60 src="logos/logo-elemental.png" alt="Elemental Technologies"> <img height=60 src="logos/logo-crowdcompass.png" alt="Crowd Compass"> <img height=60 src="logos/logo-newrelic.png" alt="New Relic"> <img height=60 src="logos/logo-appnexus.png" alt="Appnexus"> <img height=60 src="logos/logo-jama.png" alt="Jama"> <img height=60 src="logos/logo-urbanairship.png" alt="Urban Airship"> <img height=60 src="logos/logo-quickleft.png" alt="Quick Left"> <img height=60 src="logos/logo-ebay.png" alt="eBay"> <img height=60 src="logos/logo-nike.png" alt="Nike"> <img height=60 src="logos/logo-puppet.png" alt="Puppet Labs"> <img height=60 src="logos/logo-airbnb.png" alt="Airbnb"> <img height=60 src="logos/logo-metaltoad.jpg" alt="Metal Toad"> <img height=60 src="logos/logo-intel.png" alt="Intel"> <img height=60 src="logos/logo-newtechpdx.png" alt="New Tech PDX"> 
+<img height=60 src="logos/logo-mozilla.jpg" alt="Mozilla"> 
+<img height=60 src="logos/logo-instrument.png" alt="Instrument"> 
+<img height=60 src="logos/logo-newrelic.png" alt="New Relic"> 
+<img height=60 src="logos/logo-wework.png" alt="WeWork"> 
+<img height=60 src="logos/logo-salesforce.png" alt="Salesforce"> 
+<img height=60 src="logos/logo-codefellows.png" alt="Code Fellows"> 
+<img height=60 src="logos/logo-rwest.png" alt="R/West"> 
+<img height=60 src="logos/logo-treehouse.png" alt="Treehouse"> 
+<img height=60 src="logos/logo-newrelic.png" alt="New Relic"> 
+<img height=60 src="logos/logo-marketo.png" alt="Marketo"> 
+<img height=60 src="logos/logo-newrelic.png" alt="New Relic"> 
 <img height=60 src="logos/logo-wsuv.png" alt="WSU Vancouver">
 <img height=60 src="logos/logo-citizen.png" alt="+Citizen">
 <img height=60 src="logos/logo-simple.png" alt="Simple">
@@ -59,8 +45,7 @@ A monthly speakers series focused on having women speak about technology, give o
 
 ## Our Schedule
 
-<img height=300 src="graphics/networking-nights-2015.png" alt="2015 Networking Nights"> 
-<img height=300 src="graphics/networking-nights-2016.png" alt="2016 Networking Nights"> 
+<img height=300 src="graphics/networking-nights-2015.png" alt="2015 Networking Nights">  <img height=300 src="graphics/networking-nights-2016.png" alt="2016 Networking Nights"> 
 <img height=300 src="graphics/networking-nights-2017.png" alt="2017 Networking Nights">
 
 ## Event Descriptions and Themes
@@ -120,25 +105,20 @@ See a full list of [past speakers](past-speakers.md).
 
 ## Promos
 
-<img height=180 src="graphics/wwcpdx-1-jaguarlandrover.jpg" title="Jaguar Land Rover">
-<img height=180 src="graphics/wwcpdx-2-elemental.jpg" title="Elemental">
+<img height=180 src="graphics/wwcpdx-1-jaguarlandrover.jpg" title="Jaguar Land Rover"> <img height=180 src="graphics/wwcpdx-2-elemental.jpg" title="Elemental">
 <img height=180 src="graphics/wwcpdx-3-crowdcompass.jpg" title="CrowdCompass">
 <img height=180 src="graphics/wwcpdx-4-newrelic.jpg" title="New Relic">
-
 <img height=210 src="graphics/wwcpdx-5-appnexus.jpg" title="AppNexus">
 <img height=210 src="graphics/wwcpdx-6-jama.jpg" title="Jama">
 <img height=210 src="graphics/wwcpdx-7-urbanairship.jpg" title="Urban Airship">
 <img height=210 src="graphics/wwcpdx-9-ebay.jpg" title="eBay">
-
 <img height=163 src="graphics/wwcpdx-10-nike.jpg" title="Nike">
 <img height=163 src="graphics/wwcpdx-11-puppet.jpg" title="Puppet Labs">
 <img height=163 src="graphics/wwcpdx-15-newtechpdx.jpg" title="New Tech PDX">
 <img height=163 src="graphics/wwcpdx-16-mozilla.jpg" title="Mozilla">
-
 <img height=140 src="graphics/wwcpdx-12-airbnb.jpg" title="Airbnb">
 <img height=140 src="graphics/wwcpdx-13-metaltoad.jpg" title="Metal Toad">
 <img height=140 src="graphics/wwcpdx-14-intel.jpg" title="Intel">
-
 <img height=184 src="graphics/wwcpdx-17-instrument.jpg" title="Instrument + New Relic">
 <img height=184 src="graphics/wwcpdx-18-wework.jpg" title="WeWork + Salesforce">
 <img height=184 src="graphics/wwcpdx-20-rwest.jpg" title="R/West">
