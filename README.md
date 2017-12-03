@@ -15,8 +15,8 @@ A monthly speakers series focused on having women speak about technology, give o
 <img height=60 src="logos/logo-puppet.png" alt="Puppet Labs"> 
 <img height=60 src="logos/logo-airbnb.png" alt="Airbnb"> 
 <img height=60 src="logos/logo-metaltoad.jpg" alt="Metal Toad"> 
-<img height=60 src="logos/logo-intel.png" alt="Intel"> <
-img height=60 src="logos/logo-newtechpdx.png" alt="New Tech PDX"> 
+<img height=60 src="logos/logo-intel.png" alt="Intel"> 
+<img height=60 src="logos/logo-newtechpdx.png" alt="New Tech PDX"> 
 <img height=60 src="logos/logo-mozilla.jpg" alt="Mozilla"> 
 <img height=60 src="logos/logo-instrument.png" alt="Instrument"> 
 <img height=60 src="logos/logo-newrelic.png" alt="New Relic"> 
@@ -39,6 +39,7 @@ img height=60 src="logos/logo-newtechpdx.png" alt="New Tech PDX">
 <img height=60 src="logos/logo-hackbright.png" alt="Hackbright Academy">
 <img height=60 src="logos/logo-wk.png" alt="Wieden + Kennedy">
 <img height=60 src="logos/logo-vernier.png" alt="Vernier">
+<img height=60 src="logos/logo-aws-elemental.png" alt="AWS Elemental">
 <img height=60 src="logos/logo-akqa.png" alt="AKQA">
 <img height=60 src="logos/logo-cdk-global.png" alt="CDK Global">
 
