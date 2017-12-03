@@ -1,9 +1,22 @@
-# Networking Nights
+# Women Who Code Portland - Networking Nights
 A monthly speakers series focused on having women speak about technology, give our member the chance to make new connections, and help our organization build a community of technical women in Portland.
 
-## Our Hosts or Partners
+## Our Hosts and Partners
 
-<img height=60 src="logos/logo-jlr.png" alt="Jaguar Land Rover"> <img height=60 src="logos/logo-elemental.png" alt="Elemental Technologies"> <img height=60 src="logos/logo-crowdcompass.png" alt="Crowd Compass"> <img height=60 src="logos/logo-newrelic.png" alt="New Relic"> <img height=60 src="logos/logo-appnexus.png" alt="Appnexus"> <img height=60 src="logos/logo-jama.png" alt="Jama"> <img height=60 src="logos/logo-urbanairship.png" alt="Urban Airship"> <img height=60 src="logos/logo-quickleft.png" alt="Quick Left"> <img height=60 src="logos/logo-ebay.png" alt="eBay"> <img height=60 src="logos/logo-nike.png" alt="Nike"> <img height=60 src="logos/logo-puppet.png" alt="Puppet Labs"> <img height=60 src="logos/logo-airbnb.png" alt="Airbnb"> <img height=60 src="logos/logo-metaltoad.jpg" alt="Metal Toad"> <img height=60 src="logos/logo-intel.png" alt="Intel"> <img height=60 src="logos/logo-newtechpdx.png" alt="New Tech PDX"> 
+<img height=60 src="logos/logo-jlr.png" alt="Jaguar Land Rover"> <img height=60 src="logos/logo-elemental.png" alt="Elemental Technologies"> 
+<img height=60 src="logos/logo-crowdcompass.png" alt="Crowd Compass"> 
+<img height=60 src="logos/logo-newrelic.png" alt="New Relic"> 
+<img height=60 src="logos/logo-appnexus.png" alt="Appnexus"> 
+<img height=60 src="logos/logo-jama.png" alt="Jama"> 
+<img height=60 src="logos/logo-urbanairship.png" alt="Urban Airship"> 
+<img height=60 src="logos/logo-quickleft.png" alt="Quick Left"> 
+<img height=60 src="logos/logo-ebay.png" alt="eBay"> 
+<img height=60 src="logos/logo-nike.png" alt="Nike"> 
+<img height=60 src="logos/logo-puppet.png" alt="Puppet Labs"> 
+<img height=60 src="logos/logo-airbnb.png" alt="Airbnb"> 
+<img height=60 src="logos/logo-metaltoad.jpg" alt="Metal Toad"> 
+<img height=60 src="logos/logo-intel.png" alt="Intel"> <
+img height=60 src="logos/logo-newtechpdx.png" alt="New Tech PDX"> 
 <img height=60 src="logos/logo-mozilla.jpg" alt="Mozilla"> 
 <img height=60 src="logos/logo-instrument.png" alt="Instrument"> 
 <img height=60 src="logos/logo-newrelic.png" alt="New Relic"> 
@@ -36,7 +49,7 @@ A monthly speakers series focused on having women speak about technology, give o
 - make new connections
 - create a community of women who code and women learning to code in Portland
 
-## Format
+## Event Format
 
 - Lightning Talks (shorter tech talks, 8-10 minutes each)
 - Panel (45 minute panel)
@@ -94,16 +107,21 @@ A monthly speakers series focused on having women speak about technology, give o
 - Nov. 16 - [CDK Global with ChickTech](https://www.meetup.com/Women-Who-Code-Portland/events/244068845/) - Growing Technically and Professionally
 - Dec. 19 - [Women+Tech Holiday Party](https://www.meetup.com/Women-Who-Code-Portland/events/245098621/)
 
-2017
+2018
 
 - Jan. - Metal Toad
 - Mar. - Nike - "International Women's Day"
 
-## Speakers
+## List of Speakers
 
 See a full list of [past speakers](past-speakers.md).
 
-## Promos
+## FAQs
+
+- Have questions? Want to host us? Visit our [FAQ](faqs.md) page.
+- This [to-do list](event-planning/event-to-do.md) is our checklist for event planning.
+
+## Event Promos
 
 <img height=180 src="graphics/wwcpdx-1-jaguarlandrover.jpg" title="Jaguar Land Rover"> <img height=180 src="graphics/wwcpdx-2-elemental.jpg" title="Elemental">
 <img height=180 src="graphics/wwcpdx-3-crowdcompass.jpg" title="CrowdCompass">
@@ -122,10 +140,5 @@ See a full list of [past speakers](past-speakers.md).
 <img height=184 src="graphics/wwcpdx-17-instrument.jpg" title="Instrument + New Relic">
 <img height=184 src="graphics/wwcpdx-18-wework.jpg" title="WeWork + Salesforce">
 <img height=184 src="graphics/wwcpdx-20-rwest.jpg" title="R/West">
-
-## FAQs
-
-- Have questions? Want to host us? Visit our [FAQ](faqs.md) page.
-- This [to-do list](event-planning/event-to-do.md) is our checklist for event planning.
 
 
