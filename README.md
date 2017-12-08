@@ -12,7 +12,7 @@ A monthly speakers series focused on having women speak about technology, give o
 <img height=60 src="logos/logo-quickleft.png" alt="Quick Left"> 
 <img height=60 src="logos/logo-ebay.png" alt="eBay"> 
 <img height=60 src="logos/logo-nike.png" alt="Nike"> 
-<img height=60 src="logos/logo-puppet.png" alt="Puppet Labs"> 
+<img height=60 src="logos/logo-puppet.png" alt="Puppet"> 
 <img height=60 src="logos/logo-airbnb.png" alt="Airbnb"> 
 <img height=60 src="logos/logo-metaltoad.jpg" alt="Metal Toad"> 
 <img height=60 src="logos/logo-intel.png" alt="Intel"> 
@@ -98,20 +98,20 @@ A monthly speakers series focused on having women speak about technology, give o
 - Jan. 28 - [WSU Vancouver](https://www.meetup.com/Women-Who-Code-Portland/events/236509845/) - "AR + VR Project Showcases"
 - Feb. 7 - [+Citizen](https://www.meetup.com/Women-Who-Code-Portland/events/236509936/) - "Scrum IRL"
 - Mar. 8 - [Simple](https://www.meetup.com/Women-Who-Code-Portland/events/236510010/) - "International Women's Day"
-- Apr. 4 - [Vacasa](https://www.meetup.com/Women-Who-Code-Portland/events/236510111/) - Transitioning the Stack: the Role of Women in a High-Growth Tech Organization.  
-- May 11 - [Second Story](https://www.meetup.com/Women-Who-Code-Portland/events/236510126/) - Make It Happen: Improvising, Collaborating, Prototyping
-- Jun. 12 - [New Relic + InVision + Nike + Hackbright Academy](https://www.meetup.com/Women-Who-Code-Portland/events/236510149/) - 3rd Anniversary Celebration - Women in Engineering Leadership
-- Jul. 13 - [Wieden+Kennedy](https://www.meetup.com/Women-Who-Code-Portland/events/236510268/) - Intro to VR & Wearable Tech 
-- Aug. 10 - [Vernier](https://www.meetup.com/Women-Who-Code-Portland/events/242178018/) - What Does It Mean to “Do What You Love?”
-- Sep. 26 - [AWS Elemental](https://www.meetup.com/Women-Who-Code-Portland/events/243295045/) - Customer Obsession - The Art of Working Backwards
-- Oct. 18 - [AKQA](https://www.meetup.com/Women-Who-Code-Portland/events/243764705/) - Creative Pane;
-- Nov. 16 - [CDK Global with ChickTech](https://www.meetup.com/Women-Who-Code-Portland/events/244068845/) - Growing Technically and Professionally
-- Dec. 19 - [Women+Tech Holiday Party](https://www.meetup.com/Women-Who-Code-Portland/events/245098621/)
+- Apr. 4 - [Vacasa](https://www.meetup.com/Women-Who-Code-Portland/events/236510111/) - "Transitioning the Stack: the Role of Women in a High-Growth Tech Organization"  
+- May 11 - [Second Story](https://www.meetup.com/Women-Who-Code-Portland/events/236510126/) - "Make It Happen: Improvising, Collaborating, Prototyping"
+- Jun. 12 - [New Relic + InVision + Nike + Hackbright Academy](https://www.meetup.com/Women-Who-Code-Portland/events/236510149/) - "3rd Anniversary Celebration - Women in Engineering Leadership"
+- Jul. 13 - [Wieden+Kennedy](https://www.meetup.com/Women-Who-Code-Portland/events/236510268/) - "Intro to VR & Wearable Tech"
+- Aug. 10 - [Vernier](https://www.meetup.com/Women-Who-Code-Portland/events/242178018/) - "What Does It Mean to 'Do What You Love?'"
+- Sep. 26 - [AWS Elemental](https://www.meetup.com/Women-Who-Code-Portland/events/243295045/) - "Customer Obsession - The Art of Working Backwards"
+- Oct. 18 - [AKQA](https://www.meetup.com/Women-Who-Code-Portland/events/243764705/) - "Creative Panel"
+- Nov. 16 - [CDK Global with ChickTech](https://www.meetup.com/Women-Who-Code-Portland/events/244068845/) - "Growing Technically and Professionally"
+- Dec. 19 - [Women+Tech Holiday Party](https://www.meetup.com/Women-Who-Code-Portland/events/245098621/) - "Celebrating our 2017 Accomplishments"
 
 2018
 
-- Jan. - Metal Toad
-- Mar. - Nike - "International Women's Day"
+- Jan. 24 - Metal Toad
+- Mar. 8 - Nike - "International Women's Day"
 
 ## List of Speakers
 
