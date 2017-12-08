@@ -17,7 +17,7 @@ A monthly speakers series focused on having women speak about technology, give o
 <img height=60 src="logos/logo-metaltoad.jpg" alt="Metal Toad"> 
 <img height=60 src="logos/logo-intel.png" alt="Intel"> 
 <img height=60 src="logos/logo-newtechpdx.png" alt="New Tech PDX"> 
-<img height=60 src="logos/logo-mozilla.jpg" alt="Mozilla"> 
+<img height=60 src="logos/logo-mozilla.png" alt="Mozilla"> 
 <img height=60 src="logos/logo-instrument.png" alt="Instrument"> 
 <img height=60 src="logos/logo-newrelic.png" alt="New Relic"> 
 <img height=60 src="logos/logo-wework.png" alt="WeWork"> 
@@ -112,6 +112,7 @@ A monthly speakers series focused on having women speak about technology, give o
 
 - Jan. 24 - Metal Toad
 - Mar. 8 - Nike - "International Women's Day"
+- Jun. - 4th Anniversary Celebration
 
 ## List of Speakers
 
