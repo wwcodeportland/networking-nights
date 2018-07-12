@@ -112,7 +112,10 @@ A monthly speakers series focused on having women speak about technology, give o
 
 - Jan. 24 - Metal Toad
 - Mar. 8 - Nike - "International Women's Day"
-- Jun. - 4th Anniversary Celebration
+- Jun. 18 - New Relic + Google - "4th Anniversary Celebration - Building a Career in Tech"
+- Aug. 16 - Google - "Women in Infosec"
+- Sep. 20 - Intel - "Open Source"
+- Oct. - Cambia
 
 ## List of Speakers
 
