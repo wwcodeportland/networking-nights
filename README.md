@@ -110,11 +110,11 @@ A monthly speakers series focused on having women speak about technology, give o
 
 2018
 
-- Jan. 24 - Metal Toad
-- Mar. 8 - Nike - "International Women's Day"
-- Jun. 18 - New Relic + Google - "4th Anniversary Celebration - Building a Career in Tech"
-- Aug. 16 - Google - "Women in Infosec"
-- Sep. 20 - Intel - "Open Source"
+- Jan. 24 - [Metal Toad](https://www.meetup.com/Women-Who-Code-Portland/events/245945636/) - Lightning Talks
+- Mar. 8 - [Nike](https://www.meetup.com/Women-Who-Code-Portland/events/245990880/) - "International Women's Day"
+- Jun. 18 - [New Relic + Google](https://www.meetup.com/Women-Who-Code-Portland/events/246725107/) - "4th Anniversary Celebration - Building a Career in Tech"
+- Aug. 16 - [Mozilla]() - "Women in Infosec"
+- Sep. 20 - [Intel]() - "Open Source"
 - Oct. - Cambia
 
 ## List of Speakers
