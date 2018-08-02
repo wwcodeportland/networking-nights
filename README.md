@@ -42,6 +42,11 @@ A monthly speakers series focused on having women speak about technology, give o
 <img height=60 src="logos/logo-aws-elemental.png" alt="AWS Elemental">
 <img height=60 src="logos/logo-akqa.png" alt="AKQA">
 <img height=60 src="logos/logo-cdk-global.png" alt="CDK Global">
+<img height=60 src="logos/logo-metaltoad.png" alt="Metal Toad">
+<img height=60 src="logos/logo-nike.png" alt="Nike">
+<img height=60 src="logos/logo-newrelic.png" alt="New Relic">
+<img height=60 src="logos/logo-google.png" alt="Google">
+<img height=60 src="logos/logo-mozilla.png" alt="Mozilla">
 
 ## Goals
   
@@ -59,8 +64,8 @@ A monthly speakers series focused on having women speak about technology, give o
 
 ## Our Schedule
 
-<img height=300 src="graphics/networking-nights-2015.png" alt="2015 Networking Nights">  <img height=300 src="graphics/networking-nights-2016.png" alt="2016 Networking Nights"> 
-<img height=300 src="graphics/networking-nights-2017.png" alt="2017 Networking Nights">
+<img height=200 src="graphics/networking-nights-2015.png" alt="2015 Networking Nights">  <img height=200 src="graphics/networking-nights-2016.png" alt="2016 Networking Nights"> 
+<img height=200 src="graphics/networking-nights-2017.png" alt="2017 Networking Nights">
 
 ## Event Descriptions and Themes
 
