@@ -1,6 +1,31 @@
 ## Past Speakers
 
+### 2018
+
+#### Sep. 20 - Networking Night @ Intel - "Open Source"
+
+#### Aug. 16 - Networking Night @ Mozilla - "Women in InfoSec"
+
+#### June 18 - Networking Night @ New Relic + Google - "Women Who Code Portland 4th Anniversary Party - Building a Career in Tech"
+- Mauri Whalen - Vice President of Developer & Community, Ampere Computing, previously: Vice President of the Core System Development, Intel
+- Jinsy Oommen - Principal Software Engineer, Cascade Energy
+- Ann Wallace - Technical Cloud Consultant, Google
+- Neha Duggal - Senior Product Manager, New Relic
+- Moderator - Amy Boyle - Senior Software Engineer, New Relic
+
 ### 2017
+
+#### Nov. 16 - CDK Global with ChickTech - "Growing Technically and Professionally"
+
+#### Oct. 18 - AKQA - "Creative Panel"
+
+#### Sep. 26 - AWS Elemental - "Customer Obsession - The Art of Working Backwards"
+
+#### Aug. 10 - Vernier - "What Does It Mean to 'Do What You Love?'"
+
+#### Jul. 13 - Wieden+Kennedy - "Intro to VR & Wearable Tech"
+
+#### June 12 - Networking Night @ New Relic + InVision + Nike + Hackbight - "Women Who Code Portland 3rd Anniversary Party - Women in Engineering Leadership"
 
 #### May 11 - Networking Night @ Second Story 
 
