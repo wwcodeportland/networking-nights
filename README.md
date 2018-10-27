@@ -118,9 +118,10 @@ A monthly speakers series focused on having women speak about technology, give o
 - Jan. 24 - [Metal Toad](https://www.meetup.com/Women-Who-Code-Portland/events/245945636/) - Lightning Talks
 - Mar. 8 - [Nike](https://www.meetup.com/Women-Who-Code-Portland/events/245990880/) - "International Women's Day"
 - Jun. 18 - [New Relic + Google](https://www.meetup.com/Women-Who-Code-Portland/events/246725107/) - "4th Anniversary Celebration - Building a Career in Tech"
-- Aug. 16 - [Mozilla]() - "Women in Infosec"
-- Sep. 20 - [Intel]() - "Open Source"
-- Oct. - Cambia
+- Aug. 16 - [Mozilla](https://www.meetup.com/Women-Who-Code-Portland/events/253324140/) - "Women in Infosec"
+- Sep. 20 - [Intel](https://www.meetup.com/Women-Who-Code-Portland/events/254137763/) - "Women Who Open Source"
+- Nov. 14 - [HealthSparq](https://www.meetup.com/Women-Who-Code-Portland/events/255761597/) - "Healthsparq: Test Automation and Behavior Driven Development"
+- Dec. 14 - Women + Tech Holiday Party
 
 ## List of Speakers
 
