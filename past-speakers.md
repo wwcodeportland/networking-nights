@@ -1,6 +1,23 @@
 ## Past Speakers
 
+### 2019
+
+#### Jan. 28 - Networking Night @ Ampere Computing - "What Drives You to Stay Working in Tech?"
+- Renee James- CEO
+- Neerbhee Verma - Principal Engineer
+- Annie Duong - Senior Engineering Design Manager
+- Rashmi Wadwa - Principal Engineer
+- Ksenia Sedova- Staff Engineer
+- Aarti Chandrashekhar - Principal Engineer
+- Beth Gordon - Developer Advocate
+
 ### 2018
+
+#### Nov. 14 - Networking Night @ HealthSparq - "Test Automation and BDD"
+- Leesa Hicks, Manager Software Development (https://www.linkedin.com/in/leesahicks)
+- Kate Tolman, Manager, Client Operations (https://www.linkedin.com/in/kate-tolman-a8483a2b/)
+- Jami Min, Account Manager II (https://www.linkedin.com/in/jamimin/)
+- Praveena Alalasundaram, Senior Engineering Manager
 
 #### Sep. 20 - Networking Night @ Intel - "Open Source"
 
